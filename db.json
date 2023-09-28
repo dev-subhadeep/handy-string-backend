@@ -2,326 +2,1006 @@
   "products": [
     {
       "id": 1,
-      "title": "Slim Fit Dark Wash Jeans",
-      "image": "https://example.com/jeans1.jpg",
-      "category": "men",
-      "type": "jeans",
-      "price": 45
+      "category": "Men's Clothing",
+      "name": "Classic Men's Shirt",
+      "price": 34.99,
+      "image": "image_url_1.jpg",
+      "brand": "FashionHub",
+      "size": ["S", "M", "L", "XL"],
+      "material": "Cotton",
+      "color": "White",
+      "description": "A timeless white shirt for men made from high-quality cotton.",
+      "rating": 4.6,
+      "reviews": [
+        {
+          "username": "StyleEnthusiast",
+          "rating": 5,
+          "comment": "Perfect fit and great quality!"
+        },
+        {
+          "username": "CasualDude",
+          "rating": 4,
+          "comment": "Nice shirt for casual outings."
+        }
+      ]
     },
     {
       "id": 2,
-      "title": "Classic White T-Shirt",
-      "image": "https://example.com/tshirt1.jpg",
-      "category": "men",
-      "type": "t-shirt",
-      "price": 12
+      "category": "Men's Clothing",
+      "name": "Slim Fit Jeans",
+      "price": 49.99,
+      "image": "image_url_2.jpg",
+      "brand": "DenimDeluxe",
+      "size": ["30Wx32L", "32Wx32L", "34Wx32L", "36Wx32L"],
+      "material": "Denim",
+      "color": "Blue",
+      "description": "Classic blue jeans with a modern slim fit design.",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "username": "JeansLover",
+          "rating": 5,
+          "comment": "These jeans are stylish and comfortable!"
+        },
+        {
+          "username": "FashionistaGuy",
+          "rating": 4,
+          "comment": "Great choice for a casual look."
+        }
+      ]
     },
     {
       "id": 3,
-      "title": "Leather Oxford Shoes",
-      "image": "https://example.com/shoes1.jpg",
-      "category": "men",
-      "type": "shoes",
-      "price": 75
+      "category": "Women's Clothing",
+      "name": "Floral Print Sundress",
+      "price": 42.99,
+      "image": "image_url_3.jpg",
+      "brand": "SummerBreeze",
+      "size": ["XS", "S", "M", "L"],
+      "material": "Chiffon",
+      "color": "Pink Floral",
+      "description": "A lovely pink floral sundress for a perfect summer day.",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "username": "SummerChic",
+          "rating": 5,
+          "comment": "Absolutely adorable! Great for summer picnics."
+        },
+        {
+          "username": "FashionistaGirl",
+          "rating": 4,
+          "comment": "Light and airy, perfect for hot days."
+        }
+      ]
     },
     {
       "id": 4,
-      "title": "Puffer Jacket in Navy",
-      "image": "https://example.com/jacket1.jpg",
-      "category": "men",
-      "type": "jacket",
-      "price": 80
+      "category": "Women's Clothing",
+      "name": "High-Waisted Skinny Jeans",
+      "price": 54.99,
+      "image": "image_url_4.jpg",
+      "brand": "DenimDiva",
+      "size": ["24Wx30L", "26Wx30L", "28Wx30L", "30Wx30L"],
+      "material": "Stretch Denim",
+      "color": "Black",
+      "description": "Classic black skinny jeans with a flattering high waist.",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "username": "JeanQueen",
+          "rating": 5,
+          "comment": "My go-to jeans! Love the fit and style."
+        },
+        {
+          "username": "FashionForwardLady",
+          "rating": 5,
+          "comment": "These jeans are a must-have in every wardrobe."
+        }
+      ]
     },
     {
       "id": 5,
-      "title": "Slim Fit Chino Pants",
-      "image": "https://example.com/pants1.jpg",
-      "category": "men",
-      "type": "pants",
-      "price": 50
+      "category": "Kids' Clothing",
+      "name": "Dinosaur Print T-Shirt",
+      "price": 19.99,
+      "image": "image_url_5.jpg",
+      "brand": "DinoKids",
+      "size": ["2T", "3T", "4T", "5T"],
+      "material": "Cotton",
+      "color": "Green",
+      "description": "A cute green T-shirt with fun dinosaur prints for kids.",
+      "rating": 4.5,
+      "reviews": [
+        {
+          "username": "DinoLoverMom",
+          "rating": 5,
+          "comment": "My child adores this shirt! Great quality."
+        },
+        {
+          "username": "KidFashionista",
+          "rating": 4,
+          "comment": "Perfect for playtime and outings."
+        }
+      ]
     },
     {
       "id": 6,
-      "title": "Crew Neck Sweater in Gray",
-      "image": "https://example.com/sweater1.jpg",
-      "category": "men",
-      "type": "sweater",
-      "price": 38
+      "category": "Kids' Clothing",
+      "name": "Rainbow Striped Dress",
+      "price": 29.99,
+      "image": "image_url_6.jpg",
+      "brand": "ColorfulKids",
+      "size": ["2T", "3T", "4T", "5T"],
+      "material": "Cotton",
+      "color": "Rainbow",
+      "description": "A cheerful rainbow-striped dress for little girls.",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "username": "RainbowMommy",
+          "rating": 5,
+          "comment": "Adorable dress! My daughter loves it."
+        },
+        {
+          "username": "FashionableParent",
+          "rating": 4,
+          "comment": "Great for parties and special occasions."
+        }
+      ]
     },
     {
       "id": 7,
-      "title": "Short Sleeve Plaid Shirt",
-      "image": "https://example.com/shirt1.jpg",
-      "category": "men",
-      "type": "shirt",
-      "price": 22
+      "category": "Men's Clothing",
+      "name": "Striped Polo Shirt",
+      "price": 29.99,
+      "image": "image_url_7.jpg",
+      "brand": "PoloPro",
+      "size": ["S", "M", "L", "XL"],
+      "material": "Cotton",
+      "color": "Navy Blue/White",
+      "description": "A classic striped polo shirt for men in navy blue and white.",
+      "rating": 4.5,
+      "reviews": [
+        {
+          "username": "PoloFanatic",
+          "rating": 5,
+          "comment": "Perfect for a casual day out. Excellent quality!"
+        },
+        {
+          "username": "StyleGuru",
+          "rating": 4,
+          "comment": "Nice fit and comfortable fabric."
+        }
+      ]
     },
     {
       "id": 8,
-      "title": "Hooded Windbreaker Jacket",
-      "image": "https://example.com/jacket2.jpg",
-      "category": "men",
-      "type": "jacket",
-      "price": 55
+      "category": "Women's Clothing",
+      "name": "Boho Maxi Dress",
+      "price": 59.99,
+      "image": "image_url_8.jpg",
+      "brand": "BohoChic",
+      "size": ["XS", "S", "M", "L"],
+      "material": "Rayon",
+      "color": "Burgundy",
+      "description": "A stylish boho maxi dress in a beautiful burgundy color.",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "username": "BohoQueen",
+          "rating": 5,
+          "comment": "Love the boho vibes! Great for festivals."
+        },
+        {
+          "username": "FashionistaLady",
+          "rating": 4,
+          "comment": "Elegant and comfortable dress."
+        }
+      ]
     },
     {
       "id": 9,
-      "title": "Casual Slip-On Sneakers",
-      "image": "https://example.com/shoes2.jpg",
-      "category": "men",
-      "type": "shoes",
-      "price": 30
+      "category": "Kids' Clothing",
+      "name": "Superhero Costume",
+      "price": 34.99,
+      "image": "image_url_9.jpg",
+      "brand": "HeroKids",
+      "size": ["2T", "3T", "4T", "5T"],
+      "material": "Polyester",
+      "color": "Red/Blue",
+      "description": "A fun superhero costume for kids with a red and blue design.",
+      "rating": 4.6,
+      "reviews": [
+        {
+          "username": "HeroMom",
+          "rating": 5,
+          "comment": "My child feels like a real superhero in this costume!"
+        },
+        {
+          "username": "CostumeFanatic",
+          "rating": 4,
+          "comment": "Perfect for dress-up play."
+        }
+      ]
     },
     {
       "id": 10,
-      "title": "Striped Polo Shirt",
-      "image": "https://example.com/shirt2.jpg",
-      "category": "men",
-      "type": "shirt",
-      "price": 18
+      "category": "Men's Clothing",
+      "name": "Casual Chinos",
+      "price": 39.99,
+      "image": "image_url_10.jpg",
+      "brand": "ChinoStyle",
+      "size": ["30Wx32L", "32Wx32L", "34Wx32L", "36Wx32L"],
+      "material": "Cotton",
+      "color": "Khaki",
+      "description": "Comfortable khaki chino pants for a casual look.",
+      "rating": 4.5,
+      "reviews": [
+        {
+          "username": "ChinoLover",
+          "rating": 5,
+          "comment": "Perfect fit and great for everyday wear!"
+        },
+        {
+          "username": "CasualStyleGuy",
+          "rating": 4,
+          "comment": "Versatile and stylish."
+        }
+      ]
     },
     {
       "id": 11,
-      "title": "Skinny Fit Dress Pants",
-      "image": "https://example.com/pants2.jpg",
-      "category": "men",
-      "type": "pants",
-      "price": 60
+      "category": "Women's Clothing",
+      "name": "Wraparound Skirt",
+      "price": 27.99,
+      "image": "image_url_11.jpg",
+      "brand": "WrapStyle",
+      "size": ["XS", "S", "M", "L"],
+      "material": "Cotton",
+      "color": "Navy Blue",
+      "description": "A chic navy blue wraparound skirt for women.",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "username": "WrapLover",
+          "rating": 5,
+          "comment": "Love how versatile this skirt is! Perfect for summer."
+        },
+        {
+          "username": "FashionistaGal",
+          "rating": 4,
+          "comment": "Great addition to my wardrobe."
+        }
+      ]
     },
     {
       "id": 12,
-      "title": "V-Neck Cashmere Sweater",
-      "image": "https://example.com/sweater2.jpg",
-      "category": "men",
-      "type": "sweater",
-      "price": 70
+      "category": "Kids' Clothing",
+      "name": "Cartoon Print Pajamas",
+      "price": 21.99,
+      "image": "image_url_12.jpg",
+      "brand": "PajamaParty",
+      "size": ["2T", "3T", "4T", "5T"],
+      "material": "Cotton",
+      "color": "Multi-color",
+      "description": "Fun cartoon-themed pajamas for kids, perfect for bedtime.",
+      "rating": 4.6,
+      "reviews": [
+        {
+          "username": "SleepyParent",
+          "rating": 5,
+          "comment": "My child loves these pajamas! Soft and cute."
+        },
+        {
+          "username": "PajamaFanatic",
+          "rating": 4,
+          "comment": "Comfy and adorable."
+        }
+      ]
     },
     {
       "id": 13,
-      "title": "Graphic Print Hoodie",
-      "image": "https://example.com/hoodie1.jpg",
-      "category": "men",
-      "type": "hoodie",
-      "price": 28
+      "category": "Men's Clothing",
+      "name": "Plaid Flannel Shirt",
+      "price": 44.99,
+      "image": "image_url_13.jpg",
+      "brand": "FlannelWorks",
+      "size": ["S", "M", "L", "XL"],
+      "material": "Flannel",
+      "color": "Red/Black",
+      "description": "A classic red and black plaid flannel shirt for men.",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "username": "FlannelLover",
+          "rating": 5,
+          "comment": "Warm and stylish! Perfect for fall."
+        },
+        {
+          "username": "CasualPlaidGuy",
+          "rating": 4,
+          "comment": "Great for casual wear."
+        }
+      ]
     },
     {
       "id": 14,
-      "title": "Cargo Shorts",
-      "image": "https://example.com/shorts1.jpg",
-      "category": "men",
-      "type": "shorts",
-      "price": 25
+      "category": "Women's Clothing",
+      "name": "Lace Cocktail Dress",
+      "price": 69.99,
+      "image": "image_url_14.jpg",
+      "brand": "ElegantEve",
+      "size": ["XS", "S", "M", "L"],
+      "material": "Lace",
+      "color": "Black",
+      "description": "An elegant black lace cocktail dress for special occasions.",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "username": "CocktailQueen",
+          "rating": 5,
+          "comment": "Stunning dress! Received many compliments."
+        },
+        {
+          "username": "ElegantLady",
+          "rating": 5,
+          "comment": "Perfect for formal events."
+        }
+      ]
     },
     {
       "id": 15,
-      "title": "Classic Leather Belt",
-      "image": "https://example.com/belt1.jpg",
-      "category": "men",
-      "type": "belt",
-      "price": 15
+      "category": "Kids' Clothing",
+      "name": "Cute Animal Onesie",
+      "price": 29.99,
+      "image": "image_url_15.jpg",
+      "brand": "OnesieCraze",
+      "size": ["2T", "3T", "4T", "5T"],
+      "material": "Fleece",
+      "color": "Pink",
+      "description": "A cozy pink onesie with cute animal designs for kids.",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "username": "OnesieLover",
+          "rating": 5,
+          "comment": "Adorable and warm! My child loves it."
+        },
+        {
+          "username": "CozyParent",
+          "rating": 4,
+          "comment": "Great for chilly nights."
+        }
+      ]
     },
     {
       "id": 16,
-      "title": "Slim Fit Dress Shirt",
-      "image": "https://example.com/shirt3.jpg",
-      "category": "men",
-      "type": "shirt",
-      "price": 30
+      "category": "Men's Clothing",
+      "name": "V-Neck Sweater",
+      "price": 39.99,
+      "image": "image_url_16.jpg",
+      "brand": "SweaterMasters",
+      "size": ["S", "M", "L", "XL"],
+      "material": "Wool",
+      "color": "Gray",
+      "description": "A stylish gray v-neck sweater for men made from cozy wool.",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "username": "SweaterFanatic",
+          "rating": 5,
+          "comment": "Warm and fashionable! Great for winter."
+        },
+        {
+          "username": "FashionableGuy",
+          "rating": 4,
+          "comment": "Classic and versatile."
+        }
+      ]
     },
     {
       "id": 17,
-      "title": "Knit Beanie Hat",
-      "image": "https://example.com/hat1.jpg",
-      "category": "men",
-      "type": "hat",
-      "price": 10
+      "category": "Women's Clothing",
+      "name": "Casual Jumpsuit",
+      "price": 49.99,
+      "image": "image_url_17.jpg",
+      "brand": "CasualChic",
+      "size": ["XS", "S", "M", "L"],
+      "material": "Cotton",
+      "color": "Navy Blue",
+      "description": "A comfy navy blue casual jumpsuit for women.",
+      "rating": 4.6,
+      "reviews": [
+        {
+          "username": "JumpsuitLover",
+          "rating": 5,
+          "comment": "Love the relaxed fit! Great for everyday wear."
+        },
+        {
+          "username": "CasualStyleGal",
+          "rating": 4,
+          "comment": "Stylish and easy to wear."
+        }
+      ]
     },
     {
       "id": 18,
-      "title": "Athletic Jogger Pants",
-      "image": "https://example.com/pants3.jpg",
-      "category": "men",
-      "type": "pants",
-      "price": 35
+      "category": "Kids' Clothing",
+      "name": "Colorful Raincoat",
+      "price": 24.99,
+      "image": "image_url_18.jpg",
+      "brand": "RainyDays",
+      "size": ["2T", "3T", "4T", "5T"],
+      "material": "Waterproof Polyester",
+      "color": "Rainbow",
+      "description": "A fun rainbow-colored raincoat for kids to stay dry on rainy days.",
+      "rating": 4.5,
+      "reviews": [
+        {
+          "username": "RaincoatKid",
+          "rating": 5,
+          "comment": "Bright and cheerful! Keeps my child dry."
+        },
+        {
+          "username": "RainyDayParent",
+          "rating": 4,
+          "comment": "Practical and cute."
+        }
+      ]
     },
     {
       "id": 19,
-      "title": "Crew Neck Sweatshirt",
-      "image": "https://example.com/sweatshirt3.jpg",
-      "category": "men",
-      "type": "sweatshirt",
-      "price": 28
+      "category": "Men's Clothing",
+      "name": "Leather Jacket",
+      "price": 89.99,
+      "image": "image_url_19.jpg",
+      "brand": "LeatherCraft",
+      "size": ["S", "M", "L", "XL"],
+      "material": "Genuine Leather",
+      "color": "Black",
+      "description": "A classic black leather jacket for men made from genuine leather.",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "username": "LeatherLover",
+          "rating": 5,
+          "comment": "High-quality and stylish! A must-have."
+        },
+        {
+          "username": "FashionForwardGuy",
+          "rating": 4,
+          "comment": "Adds an edge to any outfit."
+        }
+      ]
     },
     {
       "id": 20,
-      "title": "Canvas Sneakers",
-      "image": "https://example.com/shoes3.jpg",
-      "category": "men",
-      "type": "shoes",
-      "price": 20
+      "category": "Women's Clothing",
+      "name": "Striped Blouse",
+      "price": 29.99,
+      "image": "image_url_20.jpg",
+      "brand": "StripesFashion",
+      "size": ["XS", "S", "M", "L"],
+      "material": "Polyester",
+      "color": "Black/White",
+      "description": "A stylish black and white striped blouse for women.",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "username": "StripesFan",
+          "rating": 5,
+          "comment": "Love the stripes! Great for both work and casual outings."
+        },
+        {
+          "username": "FashionistaLady",
+          "rating": 4,
+          "comment": "Versatile and chic."
+        }
+      ]
     },
-
     {
       "id": 21,
-      "title": "Skinny Fit Dark Wash Jeans",
-      "image": "https://example.com/jeans1.jpg",
-      "category": "women",
-      "type": "jeans",
-      "price": 45
+      "category": "Kids' Clothing",
+      "name": "Superhero T-Shirt",
+      "price": 17.99,
+      "image": "image_url_21.jpg",
+      "brand": "HeroKids",
+      "size": ["2T", "3T", "4T", "5T"],
+      "material": "Cotton",
+      "color": "Red",
+      "description": "A cool red superhero-themed T-shirt for kids.",
+      "rating": 4.6,
+      "reviews": [
+        {
+          "username": "SuperKid",
+          "rating": 5,
+          "comment": "My child feels like a hero in this shirt! Great quality."
+        },
+        {
+          "username": "HeroFanatic",
+          "rating": 4,
+          "comment": "Perfect for playtime and superhero adventures."
+        }
+      ]
     },
     {
       "id": 22,
-      "title": "Classic White T-Shirt",
-      "image": "https://example.com/tshirt1.jpg",
-      "category": "women",
-      "type": "t-shirt",
-      "price": 12
+      "category": "Men's Clothing",
+      "name": "Crew Neck Sweater",
+      "price": 29.99,
+      "image": "image_url_22.jpg",
+      "brand": "SweaterMasters",
+      "size": ["S", "M", "L", "XL"],
+      "material": "Cotton",
+      "color": "Navy Blue",
+      "description": "A comfortable navy blue crew neck sweater for men.",
+      "rating": 4.5,
+      "reviews": [
+        {
+          "username": "SweaterFan",
+          "rating": 5,
+          "comment": "Cozy and stylish! Great for layering."
+        },
+        {
+          "username": "FashionableGuy",
+          "rating": 4,
+          "comment": "Versatile and easy to pair with."
+        }
+      ]
     },
     {
       "id": 23,
-      "title": "Leather Ankle Boots",
-      "image": "https://example.com/boots1.jpg",
-      "category": "women",
-      "type": "shoes",
-      "price": 75
+      "category": "Women's Clothing",
+      "name": "Boho Kimono",
+      "price": 39.99,
+      "image": "image_url_23.jpg",
+      "brand": "BohoChic",
+      "size": ["XS", "S", "M", "L"],
+      "material": "Chiffon",
+      "color": "Turquoise",
+      "description": "A stylish turquoise boho kimono for women.",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "username": "BohoQueen",
+          "rating": 5,
+          "comment": "Love the boho vibes! Perfect for summer festivals."
+        },
+        {
+          "username": "FashionistaGal",
+          "rating": 4,
+          "comment": "Elegant and easy-breezy."
+        }
+      ]
     },
     {
       "id": 24,
-      "title": "Quilted Puffer Jacket in Navy",
-      "image": "https://example.com/jacket1.jpg",
-      "category": "women",
-      "type": "jacket",
-      "price": 80
+      "category": "Kids' Clothing",
+      "name": "Denim Overalls",
+      "price": 34.99,
+      "image": "image_url_24.jpg",
+      "brand": "DenimDeluxe",
+      "size": ["2T", "3T", "4T", "5T"],
+      "material": "Denim",
+      "color": "Blue",
+      "description": "Classic blue denim overalls for kids, perfect for playtime.",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "username": "DenimLover",
+          "rating": 5,
+          "comment": "These overalls are adorable and durable! My child loves them."
+        },
+        {
+          "username": "FashionableParent",
+          "rating": 4,
+          "comment": "Great for everyday wear."
+        }
+      ]
     },
     {
       "id": 25,
-      "title": "High-Waisted Skinny Jeans",
-      "image": "https://example.com/jeans2.jpg",
-      "category": "women",
-      "type": "jeans",
-      "price": 50
+      "category": "Men's Clothing",
+      "name": "Polo Shirt",
+      "price": 27.99,
+      "image": "image_url_25.jpg",
+      "brand": "PoloPro",
+      "size": ["S", "M", "L", "XL"],
+      "material": "Cotton",
+      "color": "Red",
+      "description": "A classic red polo shirt for men in soft cotton.",
+      "rating": 4.6,
+      "reviews": [
+        {
+          "username": "PoloFanatic",
+          "rating": 5,
+          "comment": "Perfect for a sporty look. Excellent quality!"
+        },
+        {
+          "username": "StyleGuru",
+          "rating": 4,
+          "comment": "Nice fit and comfortable fabric."
+        }
+      ]
     },
     {
       "id": 26,
-      "title": "Cable Knit Sweater in Gray",
-      "image": "https://example.com/sweater1.jpg",
-      "category": "women",
-      "type": "sweater",
-      "price": 38
+      "category": "Women's Clothing",
+      "name": "Midi Wrap Dress",
+      "price": 49.99,
+      "image": "image_url_26.jpg",
+      "brand": "WrapStyle",
+      "size": ["XS", "S", "M", "L"],
+      "material": "Polyester",
+      "color": "Navy Blue",
+      "description": "A chic navy blue midi wrap dress for women.",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "username": "WrapLover",
+          "rating": 5,
+          "comment": "Love the wrap style! Perfect for work and events."
+        },
+        {
+          "username": "FashionistaGal",
+          "rating": 4,
+          "comment": "Elegant and versatile."
+        }
+      ]
     },
     {
       "id": 27,
-      "title": "Plaid Mini Skirt",
-      "image": "https://example.com/skirt1.jpg",
-      "category": "women",
-      "type": "skirt",
-      "price": 22
+      "category": "Kids' Clothing",
+      "name": "Striped Sweater",
+      "price": 24.99,
+      "image": "image_url_27.jpg",
+      "brand": "StripeTrend",
+      "size": ["2T", "3T", "4T", "5T"],
+      "material": "Cotton",
+      "color": "Blue/White",
+      "description": "A cute blue and white striped sweater for kids.",
+      "rating": 4.6,
+      "reviews": [
+        {
+          "username": "SweaterLover",
+          "rating": 5,
+          "comment": "Soft and stylish! Great for chilly days."
+        },
+        {
+          "username": "FashionableParent",
+          "rating": 4,
+          "comment": "Versatile and cozy."
+        }
+      ]
     },
     {
       "id": 28,
-      "title": "Ruffled Blouse in Ivory",
-      "image": "https://example.com/blouse1.jpg",
-      "category": "women",
-      "type": "blouse",
-      "price": 55
+      "category": "Men's Clothing",
+      "name": "Hooded Jacket",
+      "price": 59.99,
+      "image": "image_url_28.jpg",
+      "brand": "OutdoorReady",
+      "size": ["S", "M", "L", "XL"],
+      "material": "Polyester",
+      "color": "Black",
+      "description": "A versatile black hooded jacket for men, perfect for outdoor activities.",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "username": "OutdoorEnthusiast",
+          "rating": 5,
+          "comment": "This jacket is a great addition to my outdoor gear!"
+        },
+        {
+          "username": "FashionForwardGuy",
+          "rating": 4,
+          "comment": "Stylish and functional."
+        }
+      ]
     },
     {
       "id": 29,
-      "title": "Casual Sneakers",
-      "image": "https://example.com/sneakers1.jpg",
-      "category": "women",
-      "type": "shoes",
-      "price": 30
+      "category": "Women's Clothing",
+      "name": "Suede Skirt",
+      "price": 34.99,
+      "image": "image_url_29.jpg",
+      "brand": "SuedeStyle",
+      "size": ["XS", "S", "M", "L"],
+      "material": "Suede",
+      "color": "Tan",
+      "description": "A trendy tan suede skirt for women.",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "username": "SuedeLover",
+          "rating": 5,
+          "comment": "This skirt is so chic and comfortable! Love it."
+        },
+        {
+          "username": "FashionistaGal",
+          "rating": 4,
+          "comment": "Stylish and easy to pair with."
+        }
+      ]
     },
     {
       "id": 30,
-      "title": "Striped Maxi Dress",
-      "image": "https://example.com/dress1.jpg",
-      "category": "women",
-      "type": "dress",
-      "price": 18
+      "category": "Kids' Clothing",
+      "name": "Cotton Pajama Set",
+      "price": 19.99,
+      "image": "image_url_30.jpg",
+      "brand": "PajamaParty",
+      "size": ["2T", "3T", "4T", "5T"],
+      "material": "Cotton",
+      "color": "Blue/White",
+      "description": "A comfy cotton pajama set for kids with a blue and white design.",
+      "rating": 4.5,
+      "reviews": [
+        {
+          "username": "SleepyParent",
+          "rating": 5,
+          "comment": "My child sleeps soundly in these pajamas! Soft and cozy."
+        },
+        {
+          "username": "PajamaFanatic",
+          "rating": 4,
+          "comment": "Comfy and adorable."
+        }
+      ]
     },
     {
       "id": 31,
-      "title": "Wide-Leg Linen Pants",
-      "image": "https://example.com/pants1.jpg",
-      "category": "women",
-      "type": "pants",
-      "price": 60
+      "category": "Men's Clothing",
+      "name": "Slim Fit Trousers",
+      "price": 39.99,
+      "image": "image_url_31.jpg",
+      "brand": "ChinoStyle",
+      "size": ["30Wx32L", "32Wx32L", "34Wx32L", "36Wx32L"],
+      "material": "Cotton",
+      "color": "Charcoal Gray",
+      "description": "Stylish charcoal gray slim fit trousers for men.",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "username": "StyleEnthusiast",
+          "rating": 5,
+          "comment": "These trousers fit perfectly and look great!"
+        },
+        {
+          "username": "FashionistaGuy",
+          "rating": 4,
+          "comment": "Great choice for a polished look."
+        }
+      ]
     },
     {
       "id": 32,
-      "title": "Cashmere Cardigan Sweater",
-      "image": "https://example.com/sweater2.jpg",
-      "category": "women",
-      "type": "sweater",
-      "price": 70
+      "category": "Women's Clothing",
+      "name": "Boho Print Maxi Dress",
+      "price": 59.99,
+      "image": "image_url_32.jpg",
+      "brand": "BohoChic",
+      "size": ["XS", "S", "M", "L"],
+      "material": "Rayon",
+      "color": "Boho Print",
+      "description": "A stunning boho print maxi dress for women.",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "username": "BohoQueen",
+          "rating": 5,
+          "comment": "Absolutely love this dress! Perfect for boho lovers."
+        },
+        {
+          "username": "FashionistaLady",
+          "rating": 4,
+          "comment": "Elegant and comfortable dress."
+        }
+      ]
     },
     {
       "id": 33,
-      "title": "Graphic Print Hoodie",
-      "image": "https://example.com/hoodie1.jpg",
-      "category": "women",
-      "type": "hoodie",
-      "price": 28
+      "category": "Kids' Clothing",
+      "name": "Cartoon Print T-Shirt Set",
+      "price": 21.99,
+      "image": "image_url_33.jpg",
+      "brand": "DinoKids",
+      "size": ["2T", "3T", "4T", "5T"],
+      "material": "Cotton",
+      "color": "Multi-color",
+      "description": "Fun cartoon-themed T-shirt set for kids, perfect for playtime.",
+      "rating": 4.6,
+      "reviews": [
+        {
+          "username": "DinoLoverMom",
+          "rating": 5,
+          "comment": "My child adores these shirts! Soft and fun designs."
+        },
+        {
+          "username": "KidFashionista",
+          "rating": 4,
+          "comment": "Perfect for active kids."
+        }
+      ]
     },
     {
       "id": 34,
-      "title": "Denim Shorts",
-      "image": "https://example.com/shorts1.jpg",
-      "category": "women",
-      "type": "shorts",
-      "price": 25
+      "category": "Men's Clothing",
+      "name": "Wool Peacoat",
+      "price": 74.99,
+      "image": "image_url_34.jpg",
+      "brand": "PeacoatMasters",
+      "size": ["S", "M", "L", "XL"],
+      "material": "Wool Blend",
+      "color": "Navy Blue",
+      "description": "A classic navy blue wool peacoat for men.",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "username": "PeacoatLover",
+          "rating": 5,
+          "comment": "Warm and stylish! Perfect for the winter season."
+        },
+        {
+          "username": "FashionForwardGuy",
+          "rating": 5,
+          "comment": "A timeless piece for any wardrobe."
+        }
+      ]
     },
     {
       "id": 35,
-      "title": "Leather Belt",
-      "image": "https://example.com/belt1.jpg",
-      "category": "women",
-      "type": "belt",
-      "price": 15
+      "category": "Women's Clothing",
+      "name": "Ruffle Blouse",
+      "price": 34.99,
+      "image": "image_url_35.jpg",
+      "brand": "ChicRuffles",
+      "size": ["XS", "S", "M", "L"],
+      "material": "Polyester",
+      "color": "White",
+      "description": "A chic white ruffle blouse for women.",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "username": "RuffleQueen",
+          "rating": 5,
+          "comment": "Love the ruffles! Great for both casual and formal wear."
+        },
+        {
+          "username": "FashionistaGal",
+          "rating": 4,
+          "comment": "Stylish and versatile."
+        }
+      ]
     },
     {
       "id": 36,
-      "title": "Button-Up Dress",
-      "image": "https://example.com/dress2.jpg",
-      "category": "women",
-      "type": "dress",
-      "price": 30
+      "category": "Kids' Clothing",
+      "name": "Printed Hoodie",
+      "price": 24.99,
+      "image": "image_url_36.jpg",
+      "brand": "HoodieTrend",
+      "size": ["2T", "3T", "4T", "5T"],
+      "material": "Cotton Blend",
+      "color": "Gray",
+      "description": "A cool gray printed hoodie for kids.",
+      "rating": 4.6,
+      "reviews": [
+        {
+          "username": "HoodieLover",
+          "rating": 5,
+          "comment": "My child loves this hoodie! Soft and stylish."
+        },
+        {
+          "username": "FashionableParent",
+          "rating": 4,
+          "comment": "Great for casual outings."
+        }
+      ]
     },
     {
       "id": 37,
-      "title": "Beanie Hat",
-      "image": "https://example.com/hat1.jpg",
-      "category": "women",
-      "type": "hat",
-      "price": 10
+      "category": "Men's Clothing",
+      "name": "Classic Suit",
+      "price": 129.99,
+      "image": "image_url_37.jpg",
+      "brand": "SuitedUp",
+      "size": ["S", "M", "L", "XL"],
+      "material": "Wool Blend",
+      "color": "Black",
+      "description": "A classic black wool blend suit for men, perfect for formal occasions.",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "username": "SuitedUpMan",
+          "rating": 5,
+          "comment": "This suit fits perfectly and looks elegant! Highly recommended."
+        },
+        {
+          "username": "FashionForwardGuy",
+          "rating": 5,
+          "comment": "A must-have for any gentleman."
+        }
+      ]
     },
     {
       "id": 38,
-      "title": "Jogger Pants",
-      "image": "https://example.com/pants2.jpg",
-      "category": "women",
-      "type": "pants",
-      "price": 35
+      "category": "Women's Clothing",
+      "name": "Floral Print Blouse",
+      "price": 29.99,
+      "image": "image_url_38.jpg",
+      "brand": "FloralChic",
+      "size": ["XS", "S", "M", "L"],
+      "material": "Polyester",
+      "color": "Pink Floral",
+      "description": "A lovely pink floral print blouse for women.",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "username": "FloralFan",
+          "rating": 5,
+          "comment": "Adore the floral print! Great for a feminine look."
+        },
+        {
+          "username": "FashionistaGal",
+          "rating": 4,
+          "comment": "Stylish and versatile."
+        }
+      ]
     },
     {
       "id": 39,
-      "title": "Sweatshirt",
-      "image": "https://example.com/sweatshirt2.jpg",
-      "category": "women",
-      "type": "sweatshirt",
-      "price": 28
+      "category": "Kids' Clothing",
+      "name": "Striped Leggings",
+      "price": 17.99,
+      "image": "image_url_39.jpg",
+      "brand": "StripeTrend",
+      "size": ["2T", "3T", "4T", "5T"],
+      "material": "Cotton Blend",
+      "color": "Pink/White",
+      "description": "Cute pink and white striped leggings for kids.",
+      "rating": 4.6,
+      "reviews": [
+        {
+          "username": "LeggingsLover",
+          "rating": 5,
+          "comment": "These leggings are comfy and stylish! Perfect for active kids."
+        },
+        {
+          "username": "FashionableParent",
+          "rating": 4,
+          "comment": "Versatile and easy to mix and match."
+        }
+      ]
     },
     {
       "id": 40,
-      "title": "Canvas Sneakers",
-      "image": "https://example.com/sneakers2.jpg",
-      "category": "women",
-      "type": "shoes",
-      "price": 20
+      "category": "Men's Clothing",
+      "name": "Casual Denim Jacket",
+      "price": 49.99,
+      "image": "image_url_40.jpg",
+      "brand": "DenimDeluxe",
+      "size": ["S", "M", "L", "XL"],
+      "material": "Denim",
+      "color": "Blue",
+      "description": "A stylish blue denim jacket for men, perfect for a casual look.",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "username": "DenimLover",
+          "rating": 5,
+          "comment": "This jacket is a must-have for denim enthusiasts! Great quality."
+        },
+        {
+          "username": "FashionForwardGuy",
+          "rating": 4,
+          "comment": "Versatile and trendy."
+        }
+      ]
     }
   ],
+
   "users": [
     {
       "id": 1,
