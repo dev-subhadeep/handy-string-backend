@@ -162,7 +162,7 @@
     },
 
     {
-      "id": 1,
+      "id": 21,
       "title": "Skinny Fit Dark Wash Jeans",
       "image": "https://example.com/jeans1.jpg",
       "category": "women",
@@ -170,7 +170,7 @@
       "price": 45
     },
     {
-      "id": 2,
+      "id": 22,
       "title": "Classic White T-Shirt",
       "image": "https://example.com/tshirt1.jpg",
       "category": "women",
@@ -178,7 +178,7 @@
       "price": 12
     },
     {
-      "id": 3,
+      "id": 23,
       "title": "Leather Ankle Boots",
       "image": "https://example.com/boots1.jpg",
       "category": "women",
@@ -186,7 +186,7 @@
       "price": 75
     },
     {
-      "id": 4,
+      "id": 24,
       "title": "Quilted Puffer Jacket in Navy",
       "image": "https://example.com/jacket1.jpg",
       "category": "women",
@@ -194,7 +194,7 @@
       "price": 80
     },
     {
-      "id": 5,
+      "id": 25,
       "title": "High-Waisted Skinny Jeans",
       "image": "https://example.com/jeans2.jpg",
       "category": "women",
@@ -202,7 +202,7 @@
       "price": 50
     },
     {
-      "id": 6,
+      "id": 26,
       "title": "Cable Knit Sweater in Gray",
       "image": "https://example.com/sweater1.jpg",
       "category": "women",
@@ -210,7 +210,7 @@
       "price": 38
     },
     {
-      "id": 7,
+      "id": 27,
       "title": "Plaid Mini Skirt",
       "image": "https://example.com/skirt1.jpg",
       "category": "women",
@@ -218,7 +218,7 @@
       "price": 22
     },
     {
-      "id": 8,
+      "id": 28,
       "title": "Ruffled Blouse in Ivory",
       "image": "https://example.com/blouse1.jpg",
       "category": "women",
@@ -226,7 +226,7 @@
       "price": 55
     },
     {
-      "id": 9,
+      "id": 29,
       "title": "Casual Sneakers",
       "image": "https://example.com/sneakers1.jpg",
       "category": "women",
@@ -234,7 +234,7 @@
       "price": 30
     },
     {
-      "id": 10,
+      "id": 30,
       "title": "Striped Maxi Dress",
       "image": "https://example.com/dress1.jpg",
       "category": "women",
@@ -242,7 +242,7 @@
       "price": 18
     },
     {
-      "id": 11,
+      "id": 31,
       "title": "Wide-Leg Linen Pants",
       "image": "https://example.com/pants1.jpg",
       "category": "women",
@@ -250,7 +250,7 @@
       "price": 60
     },
     {
-      "id": 12,
+      "id": 32,
       "title": "Cashmere Cardigan Sweater",
       "image": "https://example.com/sweater2.jpg",
       "category": "women",
@@ -258,7 +258,7 @@
       "price": 70
     },
     {
-      "id": 13,
+      "id": 33,
       "title": "Graphic Print Hoodie",
       "image": "https://example.com/hoodie1.jpg",
       "category": "women",
@@ -266,7 +266,7 @@
       "price": 28
     },
     {
-      "id": 14,
+      "id": 34,
       "title": "Denim Shorts",
       "image": "https://example.com/shorts1.jpg",
       "category": "women",
@@ -274,7 +274,7 @@
       "price": 25
     },
     {
-      "id": 15,
+      "id": 35,
       "title": "Leather Belt",
       "image": "https://example.com/belt1.jpg",
       "category": "women",
@@ -282,7 +282,7 @@
       "price": 15
     },
     {
-      "id": 16,
+      "id": 36,
       "title": "Button-Up Dress",
       "image": "https://example.com/dress2.jpg",
       "category": "women",
@@ -290,7 +290,7 @@
       "price": 30
     },
     {
-      "id": 17,
+      "id": 37,
       "title": "Beanie Hat",
       "image": "https://example.com/hat1.jpg",
       "category": "women",
@@ -298,7 +298,7 @@
       "price": 10
     },
     {
-      "id": 18,
+      "id": 38,
       "title": "Jogger Pants",
       "image": "https://example.com/pants2.jpg",
       "category": "women",
@@ -306,7 +306,7 @@
       "price": 35
     },
     {
-      "id": 19,
+      "id": 39,
       "title": "Sweatshirt",
       "image": "https://example.com/sweatshirt2.jpg",
       "category": "women",
@@ -314,7 +314,7 @@
       "price": 28
     },
     {
-      "id": 20,
+      "id": 40,
       "title": "Canvas Sneakers",
       "image": "https://example.com/sneakers2.jpg",
       "category": "women",
