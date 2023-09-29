@@ -654,570 +654,590 @@
   ],
 
   
-    "accessories": [
-      {
-        "id": 1,
-        "gender": "Women",
-        "category": "Bags",
-        "name": "Must Monogram Shopper Bag",
-        "price": 10.99,
-        "images": [
-          "https://thehouseofrare.com/cdn/shop/files/LYTON-DARK-GREN4580HEROHEROHERO_900x.jpg?v=1693915853",
-          "https://thehouseofrare.com/cdn/shop/files/LYTON-DARK-GREN4585_900x.jpg?v=1694066215",
-          "https://thehouseofrare.com/cdn/shop/files/LYTON-DARK-GREN4581_900x.jpg?v=1694066215"
-        ],
-        "brand": "Calvin Klein",
-        "material": "Leather",
-        "color": "Brown",
-        "description": "Comfortable & looks classy.",
-        "rating": 4.6,
-        "reviews": [
-          {
-            "username": "BagsFanatic",
-            "rating": 5,
-            "comment": "Great for casual style."
-          },
-          {
-            "username": "Handbaglover",
-            "rating": 4,
-            "comment": "Casual and comfy."
-          }
-        ]
-      },
-      {
-        "id": 2,
-        "gender": "Men",
-        "category": "Watches",
-        "name": "Elegant Chronograph Watch",
-        "price": 149.99,
-        "images": [
-          "https://example.com/watch1.jpg",
-          "https://example.com/watch1_back.jpg"
-        ],
-        "brand": "Gucci",
-        "material": "Stainless Steel",
-        "color": "Silver",
-        "description": "A stylish and precise timepiece.",
-        "rating": 4.8,
-        "reviews": [
-          {
-            "username": "WatchEnthusiast",
-            "rating": 5,
-            "comment": "Absolutely love it!"
-          },
-          {
-            "username": "Timekeeper",
-            "rating": 4,
-            "comment": "Great design and accuracy."
-          }
-        ]
-      },
-      {
-        "id": 3,
-        "gender": "Women",
-        "category": "Sunglasses",
-        "name": "Classic Aviator Sunglasses",
-        "price": 89.99,
-        "images": [
-          "https://example.com/sunglasses1.jpg",
-          "https://example.com/sunglasses1_back.jpg"
-        ],
-        "brand": "Ray-Ban",
-        "material": "Metal",
-        "color": "Gold",
-        "description": "Timeless aviator style for women.",
-        "rating": 4.7,
-        "reviews": [
-          {
-            "username": "SunglassesQueen",
-            "rating": 5,
-            "comment": "My favorite pair of shades!"
-          },
-          {
-            "username": "SunLover",
-            "rating": 4,
-            "comment": "Stylish and sturdy."
-          }
-        ]
-      },
-      {
-        "id": 4,
-        "gender": "Men",
-        "category": "Belts",
-        "name": "Classic Leather Belt",
-        "price": 49.99,
-        "images": [
-          "https://example.com/belt1.jpg",
-          "https://example.com/belt1_back.jpg"
-        ],
-        "brand": "Tommy Hilfiger",
-        "material": "Genuine Leather",
-        "color": "Black",
-        "description": "A timeless accessory for men.",
-        "rating": 4.5,
-        "reviews": [
-          {
-            "username": "BeltAficionado",
-            "rating": 5,
-            "comment": "Great quality and style."
-          },
-          {
-            "username": "FashionableGent",
-            "rating": 4,
-            "comment": "Versatile belt for any occasion."
-          }
-        ]
-      },
-      {
-        "id": 5,
-        "gender": "Women",
-        "category": "Perfumes",
-        "name": "Floral Elegance Perfume",
-        "price": 69.99,
-        "images": [
-          "https://example.com/perfume1.jpg",
-          "https://example.com/perfume1_back.jpg"
-        ],
-        "brand": "Burberry",
-        "material": "Glass Bottle",
-        "color": "Pink",
-        "description": "A delicate floral fragrance for women.",
-        "rating": 4.8,
-        "reviews": [
-          {
-            "username": "PerfumeLover",
-            "rating": 5,
-            "comment": "Smells divine!"
-          },
-          {
-            "username": "FloralFanatic",
-            "rating": 4,
-            "comment": "Lovely scent, lasts long."
-          }
-        ]
-      },
-      {
-        "id": 6,
-        "gender": "Men",
-        "category": "Wallets",
-        "name": "Slim Leather Wallet",
-        "price": 34.99,
-        "images": [
-          "https://example.com/wallet1.jpg",
-          "https://example.com/wallet1_back.jpg"
-        ],
-        "brand": "Puma",
-        "material": "Leather",
-        "color": "Brown",
-        "description": "A stylish and compact wallet for men.",
-        "rating": 4.6,
-        "reviews": [
-          {
-            "username": "WalletGuy",
-            "rating": 5,
-            "comment": "Fits nicely in my pocket."
-          },
-          {
-            "username": "FashionForward",
-            "rating": 4,
-            "comment": "Sleek and functional."
-          }
-        ]
-      },
-      {
-        "id": 7,
-        "gender": "Women",
-        "category": "Caps",
-        "name": "Classic Logo Cap",
-        "price": 24.99,
-        "images": [
-          "https://example.com/cap1.jpg",
-          "https://example.com/cap1_back.jpg"
-        ],
-        "brand": "Tommy Hilfiger",
-        "material": "Cotton",
-        "color": "Navy",
-        "description": "A timeless Tommy Hilfiger cap for women.",
-        "rating": 4.7,
-        "reviews": [
-          {
-            "username": "CapCollector",
-            "rating": 5,
-            "comment": "Love the classic logo!"
-          },
-          {
-            "username": "StyleIcon",
-            "rating": 4,
-            "comment": "Great for a sporty look."
-          }
-        ]
-      },
-      {
-        "id": 8,
-        "gender": "Men",
-        "category": "Socks",
-        "name": "Classic Crew Socks",
-        "price": 12.99,
-        "images": [
-          "https://example.com/socks1.jpg",
-          "https://example.com/socks1_back.jpg"
-        ],
-        "brand": "Puma",
-        "material": "Cotton",
-        "color": "White",
-        "description": "Comfortable crew socks for men.",
-        "rating": 4.5,
-        "reviews": [
-          {
-            "username": "SockEnthusiast",
-            "rating": 5,
-            "comment": "Great fit and quality."
-          },
-          {
-            "username": "ActiveLifestyle",
-            "rating": 4,
-            "comment": "Perfect for workouts."
-          }
-        ]
-      },
-      {
-        "id": 9,
-        "gender": "Women",
-        "category": "Sunglasses",
-        "name": "Chic Cat-Eye Sunglasses",
-        "price": 79.99,
-        "images": [
-          "https://example.com/sunglasses2.jpg",
-          "https://example.com/sunglasses2_back.jpg"
-        ],
-        "brand": "Ray-Ban",
-        "material": "Acetate",
-        "color": "Tortoise",
-        "description": "Stylish cat-eye shades for women.",
-        "rating": 4.6,
-        "reviews": [
-          {
-            "username": "CatEyeQueen",
-            "rating": 5,
-            "comment": "Love the design!"
-          },
-          {
-            "username": "Fashionista",
-            "rating": 4,
-            "comment": "Trendy and chic."
-          }
-        ]
-      },
-      {
-        "id": 10,
-        "gender": "Men",
-        "category": "Belts",
-        "name": "Classic Reversible Belt",
-        "price": 59.99,
-        "images": [
-          "https://example.com/belt2.jpg",
-          "https://example.com/belt2_back.jpg"
-        ],
-        "brand": "Hugo Boss",
-        "material": "Leather",
-        "color": "Black/Brown",
-        "description": "A versatile reversible belt for men.",
-        "rating": 4.7,
-        "reviews": [
-          {
-            "username": "BeltAficionado",
-            "rating": 5,
-            "comment": "High-quality and stylish."
-          },
-          {
-            "username": "FashionForward",
-            "rating": 4,
-            "comment": "Great for formal occasions."
-          }
-        ]
-      },
-      {
-        "id": 11,
-        "gender": "Women",
-        "category": "Bags",
-        "name": "Leather Crossbody Bag",
-        "price": 79.99,
-        "images": [
-          "https://example.com/bag2.jpg",
-          "https://example.com/bag2_back.jpg"
-        ],
-        "brand": "Gucci",
-        "material": "Leather",
-        "color": "Red",
-        "description": "A stylish and practical crossbody bag.",
-        "rating": 4.8,
-        "reviews": [
-          {
-            "username": "BagLover",
-            "rating": 5,
-            "comment": "Beautiful bag, great quality."
-          },
-          {
-            "username": "Fashionista",
-            "rating": 4,
-            "comment": "Perfect for daily use."
-          }
-        ]
-      },
-      {
-        "id": 12,
-        "gender": "Men",
-        "category": "Watches",
-        "name": "Sports Chronograph Watch",
-        "price": 169.99,
-        "images": [
-          "https://example.com/watch2.jpg",
-          "https://example.com/watch2_back.jpg"
-        ],
-        "brand": "Puma",
-        "material": "Stainless Steel",
-        "color": "Black",
-        "description": "A sporty and rugged timepiece for men.",
-        "rating": 4.5,
-        "reviews": [
-          {
-            "username": "WatchEnthusiast",
-            "rating": 5,
-            "comment": "Perfect for my workouts!"
-          },
-          {
-            "username": "ActiveLifestyle",
-            "rating": 4,
-            "comment": "Durable and stylish."
-          }
-        ]
-      },
-      {
-        "id": 13,
-        "gender": "Women",
-        "category": "Wallets",
-        "name": "Slim Bifold Wallet",
-        "price": 39.99,
-        "images": [
-          "https://example.com/wallet2.jpg",
-          "https://example.com/wallet2_back.jpg"
-        ],
-        "brand": "Calvin Klein",
-        "material": "Leather",
-        "color": "Blue",
-        "description": "A sleek and stylish women's wallet.",
-        "rating": 4.7,
-        "reviews": [
-          {
-            "username": "WalletQueen",
-            "rating": 5,
-            "comment": "Love the design and quality!"
-          },
-          {
-            "username": "Fashionista",
-            "rating": 4,
-            "comment": "Fits perfectly in my purse."
-          }
-        ]
-      },
-      {
-        "id": 14,
-        "gender": "Men",
-        "category": "Caps",
-        "name": "Logo Baseball Cap",
-        "price": 29.99,
-        "images": [
-          "https://example.com/cap2.jpg",
-          "https://example.com/cap2_back.jpg"
-        ],
-        "brand": "Tommy Hilfiger",
-        "material": "Cotton",
-        "color": "Red",
-        "description": "A classic Tommy Hilfiger baseball cap for men.",
-        "rating": 4.6,
-        "reviews": [
-          {
-            "username": "CapCollector",
-            "rating": 5,
-            "comment": "Great for a casual look!"
-          },
-          {
-            "username": "StyleIcon",
-            "rating": 4,
-            "comment": "Comfortable and stylish."
-          }
-        ]
-      },
-      {
-        "id": 15,
-        "gender": "Women",
-        "category": "Perfumes",
-        "name": "Eau de Parfum Spray",
-        "price": 79.99,
-        "images": [
-          "https://example.com/perfume2.jpg",
-          "https://example.com/perfume2_back.jpg"
-        ],
-        "brand": "Burberry",
-        "material": "Glass Bottle",
-        "color": "Beige",
-        "description": "A luxurious and long-lasting perfume for women.",
-        "rating": 4.8,
-        "reviews": [
-          {
-            "username": "PerfumeLover",
-            "rating": 5,
-            "comment": "Exquisite fragrance, lasts all day."
-          },
-          {
-            "username": "FragranceFanatic",
-            "rating": 4,
-            "comment": "Lovely scent for special occasions."
-          }
-        ]
-      },
-      {
-        "id": 16,
-        "gender": "Men",
-        "category": "Socks",
-        "name": "Athletic Ankle Socks",
-        "price": 14.99,
-        "images": [
-          "https://example.com/socks2.jpg",
-          "https://example.com/socks2_back.jpg"
-        ],
-        "brand": "Calvin Klein",
-        "material": "Cotton",
-        "color": "Black",
-        "description": "Breathable and comfortable athletic socks for men.",
-        "rating": 4.7,
-        "reviews": [
-          {
-            "username": "SockEnthusiast",
-            "rating": 5,
-            "comment": "Perfect for workouts and sports."
-          },
-          {
-            "username": "ActiveLifestyle",
-            "rating": 4,
-            "comment": "Durable and supportive."
-          }
-        ]
-      },
-      {
-        "id": 17,
-        "gender": "Women",
-        "category": "Sunglasses",
-        "name": "Retro Round Sunglasses",
-        "price": 69.99,
-        "images": [
-          "https://example.com/sunglasses3.jpg",
-          "https://example.com/sunglasses3_back.jpg"
-        ],
-        "brand": "Ray-Ban",
-        "material": "Acetate",
-        "color": "Black",
-        "description": "Classic round shades with a retro twist for women.",
-        "rating": 4.6,
-        "reviews": [
-          {
-            "username": "SunglassesQueen",
-            "rating": 5,
-            "comment": "Love the vintage look!"
-          },
-          {
-            "username": "Fashionista",
-            "rating": 4,
-            "comment": "Stylish and trendy."
-          }
-        ]
-      },
-      {
-        "id": 18,
-        "gender": "Men",
-        "category": "Belts",
-        "name": "Casual Fabric Belt",
-        "price": 34.99,
-        "images": [
-          "https://example.com/belt3.jpg",
-          "https://example.com/belt3_back.jpg"
-        ],
-        "brand": "Puma",
-        "material": "Fabric",
-        "color": "Navy",
-        "description": "A comfortable and versatile casual belt for men.",
-        "rating": 4.5,
-        "reviews": [
-          {
-            "username": "BeltAficionado",
-            "rating": 5,
-            "comment": "Great for everyday wear."
-          },
-          {
-            "username": "FashionableGent",
-            "rating": 4,
-            "comment": "Casual and stylish."
-          }
-        ]
-      },
-      {
-        "id": 19,
-        "gender": "Women",
-        "category": "Bags",
-        "name": "Chic Leather Tote",
-        "price": 99.99,
-        "images": [
-          "https://example.com/bag3.jpg",
-          "https://example.com/bag3_back.jpg"
-        ],
-        "brand": "Tommy Hilfiger",
-        "material": "Leather",
-        "color": "Navy",
-        "description": "A chic and spacious leather tote bag for women.",
-        "rating": 4.7,
-        "reviews": [
-          {
-            "username": "BagLover",
-            "rating": 5,
-            "comment": "Beautiful and roomy!"
-          },
-          {
-            "username": "Fashionista",
-            "rating": 4,
-            "comment": "Perfect for shopping trips."
-          }
-        ]
-      },
-      {
-        "id": 20,
-        "gender": "Men",
-        "category": "Perfumes",
-        "name": "Aqua Fresh Cologne",
-        "price": 59.99,
-        "images": [
-          "https://example.com/perfume3.jpg",
-          "https://example.com/perfume3_back.jpg"
-        ],
-        "brand": "Hugo Boss",
-        "material": "Glass Bottle",
-        "color": "Blue",
-        "description": "A refreshing and invigorating cologne for men.",
-        "rating": 4.8,
-        "reviews": [
-          {
-            "username": "CologneFan",
-            "rating": 5,
-            "comment": "My go-to scent for summer!"
-          },
-          {
-            "username": "FragranceEnthusiast",
-            "rating": 4,
-            "comment": "Clean and revitalizing."
-          }
-        ]
-      }
-    ],
-  
+   
+  "accessories": [
+    {
+      "id": 1,
+      "gender": "Women",
+      "category": "Bags",
+      "name": "Must Monogram Shopper Bag",
+      "price": 10.99,
+      "images": [
+        "https://cdn04.nnnow.com/web-images/large/styles/0NZ83GER5ZK/1676441352615/1.jpg",
+        "https://cdn18.nnnow.com/web-images/large/styles/0NZ83GER5ZK/1676441352612/2.jpg",
+        "https://cdn16.nnnow.com/web-images/large/styles/0NZ83GER5ZK/1676441352613/3.jpg"
+      ],
+      "brand": "Calvin Klein",
+      "material": "Leather",
+      "color": "Brown",
+      "description": "Comfortable & looks classy.",
+      "rating": 4.6,
+      "reviews": [
+        {
+          "username": "BagsFanatic",
+          "rating": 5,
+          "comment": "Great for casual style."
+        },
+        {
+          "username": "Handbaglover",
+          "rating": 4,
+          "comment": "Casual and comfy."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "gender": "Men",
+      "category": "Perfume",
+      "name": "Defy Eau De Parfum",
+      "price": 8.99,
+      "images": [
+        "https://cdn16.nnnow.com/web-images/large/styles/JPAO78NSEDI/1664529379602/1.jpg",
+        "https://cdn01.nnnow.com/web-images/large/styles/JPAO78NSEDI/1664529379594/2.jpg",
+        "https://cdn10.nnnow.com/web-images/large/styles/JPAO78NSEDI/1664529379598/3.jpg"    
+      ],
+      "brand": "Calvin Klein",
+      "material": "Semi Liquid",
+      "color": "Blue",
+      "description": "A fragrance and longlasting perfume.",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "username": "WatchEnthusiast",
+          "rating": 5,
+          "comment": "Absolutely love it!"
+        },
+        {
+          "username": "Timekeeper",
+          "rating": 4,
+          "comment": "Great smell and longlasting."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "gender": "Women",
+      "category": "Sunglasses",
+      "name": "Classic Aviator Sunglasses",
+      "price": 25.99,
+      "images": [
+        "https://cdn08.nnnow.com/web-images/large/styles/24V5MMKV22K/1566820187564/1.jpg",
+        "https://cdn09.nnnow.com/web-images/large/styles/24V5MMKV22K/1566820187562/2.jpg",
+        "https://cdn07.nnnow.com/web-images/large/styles/24V5MMKV22K/1566820187563/3.jpg"
+      ],
+      "brand": "Ray-Ban",
+      "material": "Metal",
+      "color": "Gold",
+      "description": "Timeless aviator style for women.",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "username": "SunglassesQueen",
+          "rating": 5,
+          "comment": "My favorite pair of shades!"
+        },
+        {
+          "username": "SunLover",
+          "rating": 4,
+          "comment": "Stylish and sturdy."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "gender": "Men",
+      "category": "Belts",
+      "name": "Classic Leather Belt",
+      "price": 29.99,
+      "images": [
+        "https://cdn15.nnnow.com/web-images/large/styles/JWRXF9Y15Q9/1650868240020/1.JPG",
+        "https://cdn17.nnnow.com/web-images/large/styles/JWRXF9Y15Q9/1650868240018/2.JPG",
+         "https://cdn15.nnnow.com/web-images/large/styles/JWRXF9Y15Q9/1650868240019/3.JPG"
+      ],
+      "brand": "Tommy Hilfiger",
+      "material": "Genuine Leather",
+      "color": "Black",
+      "description": "A timeless accessory for men.",
+      "rating": 4.5,
+      "reviews": [
+        {
+          "username": "BeltAficionado",
+          "rating": 5,
+          "comment": "Great quality and style."
+        },
+        {
+          "username": "FashionableGent",
+          "rating": 4,
+          "comment": "Versatile belt for any occasion."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "gender": "Women",
+      "category": "Perfumes",
+      "name": "Floral Elegance Perfume",
+      "price": 69.99,
+      "images": [
+        "https://cdn03.nnnow.com/web-images/large/styles/NXX5OHJ599C/1685438482057/1.jpg",
+        "https://cdn03.nnnow.com/web-images/large/styles/NXX5OHJ599C/1685438482057/1.jpg",
+        "https://cdn03.nnnow.com/web-images/large/styles/NXX5OHJ599C/1685438482057/1.jpg"
+      ],
+      "brand": "Burberry",
+      "material": "Glass Bottle",
+      "color": "Gold",
+      "description": "A delicate floral fragrance for women.",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "username": "PerfumeLover",
+          "rating": 5,
+          "comment": "Smells divine!"
+        },
+        {
+          "username": "FloralFanatic",
+          "rating": 4,
+          "comment": "Lovely scent, lasts long."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "gender": "Men",
+      "category": "Wallets",
+      "name": "Slim Leather Wallet",
+      "price": 34.99,
+      "images": [
+        "https://cdn11.nnnow.com/web-images/large/styles/T4N0MW7F56N/1686570259156/1.jpg",
+        "https://cdn04.nnnow.com/web-images/large/styles/T4N0MW7F56N/1686570259154/2.jpg",
+         "https://cdn06.nnnow.com/web-images/large/styles/T4N0MW7F56N/1686570259155/3.jpg"
+      ],
+      "brand": "Puma",
+      "material": "Leather",
+      "color": "Black",
+      "description": "A stylish and compact wallet for men.",
+      "rating": 4.6,
+      "reviews": [
+        {
+          "username": "WalletGuy",
+          "rating": 5,
+          "comment": "Fits nicely in my pocket."
+        },
+        {
+          "username": "FashionForward",
+          "rating": 4,
+          "comment": "Sleek and functional."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "gender": "Women",
+      "category": "Caps",
+      "name": "Classic Logo Cap",
+      "price": 24.99,
+      "images": [
+        "https://cdn00.nnnow.com/web-images/large/styles/VMM7MPVILYM/1680868459417/1.jpg",
+        "https://cdn15.nnnow.com/web-images/large/styles/VMM7MPVILYM/1680868459415/2.jpg",
+        "https://cdn18.nnnow.com/web-images/large/styles/VMM7MPVILYM/1680868459417/3.jpg"
+      ],
+      "brand": "U.S.Polo",
+      "material": "Cotton",
+      "color": "White",
+      "description": "A timeless Tommy Hilfiger cap for women.",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "username": "CapCollector",
+          "rating": 5,
+          "comment": "Love the classic logo!"
+        },
+        {
+          "username": "StyleIcon",
+          "rating": 4,
+          "comment": "Great for a sporty look."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "gender": "Men",
+      "category": "Socks",
+      "name": "Classic Crew Socks",
+      "price": 12.99,
+      "images": [
+        "https://cdn13.nnnow.com/web-images/large/styles/IWNIVJLRH4D/1684137998932/1.jpg",
+        "https://cdn08.nnnow.com/web-images/large/styles/IWNIVJLRH4D/1684137998930/2.jpg",
+        "https://cdn06.nnnow.com/web-images/large/styles/IWNIVJLRH4D/1684137998931/3.jpg"
+      ],
+      "brand": "Puma",
+      "material": "Cotton",
+      "color": "Grey",
+      "description": "Comfortable crew socks for men.",
+      "rating": 4.5,
+      "reviews": [
+        {
+          "username": "SockEnthusiast",
+          "rating": 5,
+          "comment": "Great fit and quality."
+        },
+        {
+          "username": "ActiveLifestyle",
+          "rating": 4,
+          "comment": "Perfect for workouts."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "gender": "Women",
+      "category": "Sunglasses",
+      "name": "Chic Cat-Eye Sunglasses",
+      "price": 9.99,
+      "images": [
+        "https://cdn17.nnnow.com/web-images/large/styles/CFVAOHIH9KR/1522233960323/1.jpg",
+        "https://cdn18.nnnow.com/web-images/large/styles/CFVAOHIH9KR/1522233960323/2.jpg",
+        "https://cdn00.nnnow.com/web-images/large/styles/CFVAOHIH9KR/1522233960324/3.jpg"
+      ],
+      "brand": "Ray-Ban",
+      "material": "Acetate",
+      "color": "Tortoise",
+      "description": "Stylish cat-eye shades for women.",
+      "rating": 4.6,
+      "reviews": [
+        {
+          "username": "CatEyeQueen",
+          "rating": 5,
+          "comment": "Love the design!"
+        },
+        {
+          "username": "Fashionista",
+          "rating": 4,
+          "comment": "Trendy and chic."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "gender": "Men",
+      "category": "Belts",
+      "name": "Classic Reversible Belt",
+      "price": 25.99,
+      "images": [
+        "https://cdn15.nnnow.com/web-images/large/styles/TZSMN1X4EZW/1679651366690/2.jpg",
+        "https://cdn06.nnnow.com/web-images/large/styles/TZSMN1X4EZW/1679651366692/1.jpg",
+         "https://cdn07.nnnow.com/web-images/large/styles/TZSMN1X4EZW/1679651366691/3.jpg"
+      ],
+      "brand": "Hugo Boss",
+      "material": "Leather",
+      "color": "Black/Brown",
+      "description": "A versatile reversible belt for men.",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "username": "BeltAficionado",
+          "rating": 5,
+          "comment": "High-quality and stylish."
+        },
+        {
+          "username": "FashionForward",
+          "rating": 4,
+          "comment": "Great for formal occasions."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "gender": "Women",
+      "category": "Bags",
+      "name": "Leather Crossbody Bag",
+      "price": 59.99,
+      "images": [
+        "https://cdn19.nnnow.com/web-images/large/styles/1YL81WTP0E7/1675341497620/1.jpg",
+        "https://cdn16.nnnow.com/web-images/large/styles/1YL81WTP0E7/1675341497617/2.jpg",
+        "https://cdn18.nnnow.com/web-images/large/styles/1YL81WTP0E7/1675341497618/3.jpg"
+
+      ],
+      "brand": "Gucci",
+      "material": "Leather",
+      "color": "Pink",
+      "description": "A stylish and practical crossbody bag.",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "username": "BagLover",
+          "rating": 5,
+          "comment": "Beautiful bag, great quality."
+        },
+        {
+          "username": "Fashionista",
+          "rating": 4,
+          "comment": "Perfect for daily use."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "gender": "Men",
+      "category": "Backpacks",
+      "name": "Mens College Backpack",
+      "price": 39.99,
+      "images": [
+        "https://cdn17.nnnow.com/web-images/large/styles/0MYXO4V8A2T/1536916944872/1.jpg",
+        "https://cdn12.nnnow.com/web-images/large/styles/0MYXO4V8A2T/1536916944892/2.jpg",
+        "https://cdn01.nnnow.com/web-images/large/styles/0MYXO4V8A2T/1536916944894/3.jpg"
+      ],
+      "brand": "American Tourister",
+      "material": "Cotton",
+      "color": "Blue",
+      "description": "A sporty and rugged backpack.",
+      "rating": 4.5,
+      "reviews": [
+        {
+          "username": "BagEnthusiast",
+          "rating": 5,
+          "comment": "Perfect for my college!"
+        },
+        {
+          "username": "ActiveLifestyle",
+          "rating": 4,
+          "comment": "Durable and stylish."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "gender": "Women",
+      "category": "Wallets",
+      "name": "Slim Bifold Wallet",
+      "price": 39.99,
+      "images": [
+        "https://cdn02.nnnow.com/web-images/large/styles/4H0AMXDWP8X/1680863276428/1.jpg",
+        "https://cdn13.nnnow.com/web-images/large/styles/4H0AMXDWP8X/1680863276426/2.jpg",
+        "https://cdn01.nnnow.com/web-images/large/styles/4H0AMXDWP8X/1680863276427/3.jpg"
+      ],
+      "brand": "Tommy Hilfiger",
+      "material": "Leather",
+      "color": "Black",
+      "description": "A sleek and stylish women's wallet.",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "username": "WalletQueen",
+          "rating": 5,
+          "comment": "Love the design and quality!"
+        },
+        {
+          "username": "Fashionista",
+          "rating": 4,
+          "comment": "Fits perfectly in my purse."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "gender": "Men",
+      "category": "Caps",
+      "name": "Logo Baseball Cap",
+      "price": 29.99,
+      "images": [
+        "https://cdn19.nnnow.com/web-images/large/styles/MY7TXD0X1LH/1680868459503/1.jpg",
+        "https://cdn16.nnnow.com/web-images/large/styles/MY7TXD0X1LH/1680868459501/2.jpg",
+        "https://cdn18.nnnow.com/web-images/large/styles/MY7TXD0X1LH/1680868459502/3.jpg"
+      ],
+      "brand": "Tommy Hilfiger",
+      "material": "Cotton",
+      "color": "Navy",
+      "description": "A classic Tommy Hilfiger baseball cap for men.",
+      "rating": 4.6,
+      "reviews": [
+        {
+          "username": "CapCollector",
+          "rating": 5,
+          "comment": "Great for a casual look!"
+        },
+        {
+          "username": "StyleIcon",
+          "rating": 4,
+          "comment": "Comfortable and stylish."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "gender": "Women",
+      "category": "Perfumes",
+      "name": "Eau de Parfum Spray",
+      "price": 79.99,
+      "images": [
+        "https://cdn13.nnnow.com/web-images/large/styles/JWDVPXLPG9P/1685438491854/1.jpg",
+        "https://cdn09.nnnow.com/web-images/large/styles/JWDVPXLPG9P/1685438491796/2.jpg",
+        "https://cdn08.nnnow.com/web-images/large/styles/JWDVPXLPG9P/1685438491826/3.jpg"
+      ],
+      "brand": "Burberry",
+      "material": "Glass Bottle",
+      "color": "Beige",
+      "description": "A luxurious and long-lasting perfume for women.",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "username": "PerfumeLover",
+          "rating": 5,
+          "comment": "Exquisite fragrance, lasts all day."
+        },
+        {
+          "username": "FragranceFanatic",
+          "rating": 4,
+          "comment": "Lovely scent for special occasions."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "gender": "Men",
+      "category": "Socks",
+      "name": "Athletic Ankle Socks",
+      "price": 14.99,
+      "images": [
+        "https://cdn18.nnnow.com/web-images/large/styles/GDACDK2AYKF/1689319855897/1.jpg",
+        "https://cdn12.nnnow.com/web-images/large/styles/GDACDK2AYKF/1689319855894/2.jpg",
+        "https://cdn01.nnnow.com/web-images/large/styles/GDACDK2AYKF/1689319855896/3.jpg"
+      ],
+      "brand": "Calvin Klein",
+      "material": "Cotton",
+      "color": "Black",
+      "description": "Breathable and comfortable athletic socks for men.",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "username": "SockEnthusiast",
+          "rating": 5,
+          "comment": "Perfect for workouts and sports."
+        },
+        {
+          "username": "ActiveLifestyle",
+          "rating": 4,
+          "comment": "Durable and supportive."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "gender": "Men",
+      "category": "Sunglasses",
+      "name": "Retro Round Sunglasses",
+      "price": 69.99,
+      "images": [
+        "https://cdn18.nnnow.com/web-images/large/styles/VXRR2XZZK6I/1534754084656/1.jpg",
+        "https://cdn16.nnnow.com/web-images/large/styles/VXRR2XZZK6I/1534754084657/2.jpg",
+         "https://cdn15.nnnow.com/web-images/large/styles/VXRR2XZZK6I/1534754084657/3.jpg"
+      ],
+      "brand": "Ray-Ban",
+      "material": "Acetate",
+      "color": "Black",
+      "description": "Classic round shades with a retro twist for men.",
+      "rating": 4.6,
+      "reviews": [
+        {
+          "username": "SunglassesQueen",
+          "rating": 5,
+          "comment": "Love the vintage look!"
+        },
+        {
+          "username": "Fashionista",
+          "rating": 4,
+          "comment": "Stylish and trendy."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "gender": "Men",
+      "category": "Belts",
+      "name": "Casual Fabric Belt",
+      "price": 34.99,
+      "images": [
+        "https://cdn09.nnnow.com/web-images/large/styles/HXS3QYNKQHA/1679655530717/1.jpg",
+        "https://cdn05.nnnow.com/web-images/large/styles/HXS3QYNKQHA/1679655530714/2.jpg",
+        "https://cdn08.nnnow.com/web-images/large/styles/HXS3QYNKQHA/1679655530716/3.jpg"
+      ],
+      "brand": "U.S.Polo",
+      "material": "Leather",
+      "color": "Black",
+      "description": "A comfortable and versatile casual belt for men.",
+      "rating": 4.5,
+      "reviews": [
+        {
+          "username": "BeltAficionado",
+          "rating": 5,
+          "comment": "Great for everyday wear."
+        },
+        {
+          "username": "FashionableGent",
+          "rating": 4,
+          "comment": "Casual and stylish."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "gender": "Women",
+      "category": "Bags",
+      "name": "Chic Leather Tote",
+      "price": 99.99,
+      "images": [
+        "https://cdn16.nnnow.com/web-images/large/styles/WTNBW0J5DB9/1693307159499/1.jpg",
+        "https://cdn19.nnnow.com/web-images/large/styles/WTNBW0J5DB9/1693307159497/2.jpg",
+        "https://cdn01.nnnow.com/web-images/large/styles/WTNBW0J5DB9/1693307159498/3.jpg"
+      ],
+      "brand": "Tommy Hilfiger",
+      "material": "Leather",
+      "color": "Red",
+      "description": "A chic and spacious leather tote bag for women.",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "username": "BagLover",
+          "rating": 5,
+          "comment": "Beautiful and roomy!"
+        },
+        {
+          "username": "Fashionista",
+          "rating": 4,
+          "comment": "Perfect for shopping trips."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "gender": "Men",
+      "category": "Perfumes",
+      "name": "Aqua Fresh Cologne",
+      "price": 59.99,
+      "images": [
+        "https://cdn09.nnnow.com/web-images/large/styles/X8D26EIU28J/1667815797610/1.jpg",
+        "https://cdn14.nnnow.com/web-images/large/styles/X8D26EIU28J/1667815797606/3.jpg",
+        "https://cdn01.nnnow.com/web-images/large/styles/X8D26EIU28J/1667815797596/4.jpg"
+      ],
+      "brand": "Hugo Boss",
+      "material": "Glass Bottle",
+      "color": "Blue",
+      "description": "A refreshing and invigorating cologne for men.",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "username": "CologneFan",
+          "rating": 5,
+          "comment": "My go-to scent for summer!"
+        },
+        {
+          "username": "FragranceEnthusiast",
+          "rating": 4,
+          "comment": "Clean and revitalizing."
+        }
+      ]
+    }
+  ],
   
 
   "users": [
