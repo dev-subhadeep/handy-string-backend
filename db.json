@@ -1,1002 +1,653 @@
 {
+  
   "products": [
     {
       "id": 1,
-      "category": "Men's Clothing",
-      "name": "Classic Men's Shirt",
-      "price": 34.99,
-      "image": "image_url_1.jpg",
-      "brand": "FashionHub",
+      "gender": "Men",
+      "category": "Topwear",
+      "name": "Crew Neck T-Shirt",
+      "price": 19.99,
+      "images": ["https://thehouseofrare.com/cdn/shop/files/DROVIE-DARK-PURPLE2566-HERO_900x.jpg?v=1692013955", "https://thehouseofrare.com/cdn/shop/files/DROVIE-DARK-PURPLE2560_900x.jpg?v=1692355812", "https://thehouseofrare.com/cdn/shop/files/DROVIE-DARK-PURPLE2547_900x.jpg?v=1692355812"],
+      "brand": "H&M",
       "size": ["S", "M", "L", "XL"],
       "material": "Cotton",
-      "color": "White",
-      "description": "A timeless white shirt for men made from high-quality cotton.",
-      "rating": 4.6,
+      "color": "Grey",
+      "description": "A classic white crew neck t-shirt for men.",
+      "rating": 4.5,
       "reviews": [
         {
-          "username": "StyleEnthusiast",
+          "username": "TeeLover",
           "rating": 5,
-          "comment": "Perfect fit and great quality!"
+          "comment": "Great fit and comfortable fabric."
         },
         {
           "username": "CasualDude",
           "rating": 4,
-          "comment": "Nice shirt for casual outings."
+          "comment": "Perfect for everyday wear."
         }
       ]
     },
     {
       "id": 2,
-      "category": "Men's Clothing",
-      "name": "Slim Fit Jeans",
-      "price": 49.99,
-      "image": "image_url_2.jpg",
-      "brand": "DenimDeluxe",
-      "size": ["30Wx32L", "32Wx32L", "34Wx32L", "36Wx32L"],
-      "material": "Denim",
+      "gender": "Women",
+      "category": "Topwear",
+      "name": "V-Neck Blouse",
+      "price": 29.99,
+      "images": ["https://www.rareism.com/cdn/shop/products/IMG_0421_4b39a844-9179-4190-840c-7de29c3c4205_900x.jpg?v=1686569011", "https://www.rareism.com/cdn/shop/products/IMG_0404_2c3836ad-7ef2-429d-a4b0-3f8b6530ff54_900x.jpg?v=1686569011", "https://www.rareism.com/cdn/shop/products/IMG_0434_a0de29b6-1948-4a29-b7fa-5a8d224c983e_160x.jpg?v=1686569011"],
+      "brand": "Zara",
+      "size": ["XS", "S", "M", "L"],
+      "material": "Silk",
       "color": "Blue",
-      "description": "Classic blue jeans with a modern slim fit design.",
-      "rating": 4.8,
+      "description": "A stylish blue silk v-neck blouse for women.",
+      "rating": 4.7,
       "reviews": [
         {
-          "username": "JeansLover",
+          "username": "BlouseEnthusiast",
           "rating": 5,
-          "comment": "These jeans are stylish and comfortable!"
+          "comment": "Love the color and the fit!"
         },
         {
-          "username": "FashionistaGuy",
+          "username": "FashionistaLady",
           "rating": 4,
-          "comment": "Great choice for a casual look."
+          "comment": "Perfect for both casual and formal occasions."
         }
       ]
     },
     {
       "id": 3,
-      "category": "Women's Clothing",
-      "name": "Floral Print Sundress",
-      "price": 42.99,
-      "image": "image_url_3.jpg",
-      "brand": "SummerBreeze",
-      "size": ["XS", "S", "M", "L"],
-      "material": "Chiffon",
-      "color": "Pink Floral",
-      "description": "A lovely pink floral sundress for a perfect summer day.",
-      "rating": 4.7,
+      "gender": "Men",
+      "category": "Bottomwear",
+      "name": "Slim Fit Jeans",
+      "price": 49.99,
+      "images": ["https://thehouseofrare.com/cdn/shop/products/HERO-1_332bf10f-f54e-48d8-9ffe-4c4d2213cd4c_900x.jpg?v=1668778189", "https://thehouseofrare.com/cdn/shop/products/IMG_0137_1b2306a4-2efa-4543-b5ec-884dad9771c4_900x.jpg?v=1668783059", "https://thehouseofrare.com/cdn/shop/products/IMG_0135_358d1c1a-949e-461b-a7ab-201f8a37b4cf_900x.jpg?v=1668780794"],
+      "brand": "Levi's",
+      "size": ["30Wx32L", "32Wx32L", "34Wx32L", "36Wx32L"],
+      "material": "Denim",
+      "color": "Dark Blue",
+      "description": "Classic dark blue slim fit jeans for men.",
+      "rating": 4.6,
       "reviews": [
         {
-          "username": "SummerChic",
+          "username": "JeansAddict",
           "rating": 5,
-          "comment": "Absolutely adorable! Great for summer picnics."
+          "comment": "Excellent fit and quality."
         },
         {
-          "username": "FashionistaGirl",
+          "username": "CasualDude",
           "rating": 4,
-          "comment": "Light and airy, perfect for hot days."
+          "comment": "Stylish and comfortable."
         }
       ]
     },
     {
       "id": 4,
-      "category": "Women's Clothing",
-      "name": "High-Waisted Skinny Jeans",
-      "price": 54.99,
-      "image": "image_url_4.jpg",
-      "brand": "DenimDiva",
-      "size": ["24Wx30L", "26Wx30L", "28Wx30L", "30Wx30L"],
-      "material": "Stretch Denim",
-      "color": "Black",
-      "description": "Classic black skinny jeans with a flattering high waist.",
-      "rating": 4.9,
+      "gender": "Women",
+      "category": "Topwear",
+      "name": "Striped Sweater",
+      "price": 39.99,
+      "images": ["https://www.rareism.com/cdn/shop/products/IMG_0038_bbc9666a-7fbd-462a-8afb-795a18a565da_900x.jpg?v=1661174565", "https://www.rareism.com/cdn/shop/products/IMG_0009_1_a83bc42e-9e78-4daa-b59a-265789d5e9fc_900x.jpg?v=1661174572", "https://www.rareism.com/cdn/shop/products/Layer2_9d51a802-7aca-4bda-94e6-13a136b9deef_900x.jpg?v=1661174565"],
+      "brand": "Gap",
+      "size": ["XS", "S", "M", "L"],
+      "material": "Cotton",
+      "color": "Light brown/Red",
+      "description": "A cozy navy and white striped sweater for women.",
+      "rating": 4.8,
       "reviews": [
         {
-          "username": "JeanQueen",
+          "username": "SweaterFanatic",
           "rating": 5,
-          "comment": "My go-to jeans! Love the fit and style."
+          "comment": "Love the quality and style!"
         },
         {
-          "username": "FashionForwardLady",
-          "rating": 5,
-          "comment": "These jeans are a must-have in every wardrobe."
+          "username": "FashionistaGirl",
+          "rating": 4,
+          "comment": "Perfect for a chilly day."
         }
       ]
     },
     {
       "id": 5,
-      "category": "Kids' Clothing",
-      "name": "Dinosaur Print T-Shirt",
-      "price": 19.99,
-      "image": "image_url_5.jpg",
-      "brand": "DinoKids",
-      "size": ["2T", "3T", "4T", "5T"],
+      "gender": "Men",
+      "category": "Bottomwear",
+      "name": "Chino Pants",
+      "price": 34.99,
+      "images": ["https://thehouseofrare.com/cdn/shop/files/DRIVER-BROWN0243_900x.jpg?v=1690451309", "https://thehouseofrare.com/cdn/shop/files/DRIVER-BROWN0254_900x.jpg?v=1690451309", "https://thehouseofrare.com/cdn/shop/files/DRIVER-BROWN0215_900x.jpg?v=1690451309"],
+      "brand": "Dockers",
+      "size": ["30Wx32L", "32Wx32L", "34Wx32L", "36Wx32L"],
       "material": "Cotton",
-      "color": "Green",
-      "description": "A cute green T-shirt with fun dinosaur prints for kids.",
-      "rating": 4.5,
+      "color": "Khaki",
+      "description": "Classic khaki chino pants for men.",
+      "rating": 4.7,
       "reviews": [
         {
-          "username": "DinoLoverMom",
+          "username": "ChinosFan",
           "rating": 5,
-          "comment": "My child adores this shirt! Great quality."
+          "comment": "Great fit and quality. Perfect for business casual."
         },
         {
-          "username": "KidFashionista",
+          "username": "CasualDude",
           "rating": 4,
-          "comment": "Perfect for playtime and outings."
+          "comment": "Versatile and comfortable."
         }
       ]
     },
     {
       "id": 6,
-      "category": "Kids' Clothing",
-      "name": "Rainbow Striped Dress",
-      "price": 29.99,
-      "image": "image_url_6.jpg",
-      "brand": "ColorfulKids",
-      "size": ["2T", "3T", "4T", "5T"],
-      "material": "Cotton",
-      "color": "Rainbow",
-      "description": "A cheerful rainbow-striped dress for little girls.",
+      "gender": "Women",
+      "category": "Topwear",
+      "name": "Denim Jacket",
+      "price": 49.99,
+      "images": ["https://www.rareism.com/cdn/shop/products/IMG_0064_7b06fca5-586f-4152-a597-0d965df41950_900x.jpg?v=1663574848", "https://www.rareism.com/cdn/shop/products/IMG_0005_29d5931e-d838-4949-a786-5f7c314c61e1_900x.jpg?v=1663574848", "https://www.rareism.com/cdn/shop/products/IMG_0008_b1eac7e8-fa71-4c28-a43e-ec1cd698cacc_900x.jpg?v=1663574848"],
+      "brand": "Levi's",
+      "size": ["XS", "S", "M", "L"],
+      "material": "Denim",
+      "color": "Blue",
+      "description": "A classic blue denim jacket for women.",
       "rating": 4.7,
       "reviews": [
         {
-          "username": "RainbowMommy",
+          "username": "DenimQueen",
           "rating": 5,
-          "comment": "Adorable dress! My daughter loves it."
+          "comment": "A must-have for any denim lover!"
         },
         {
-          "username": "FashionableParent",
-          "rating": 4,
-          "comment": "Great for parties and special occasions."
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "category": "Men's Clothing",
-      "name": "Striped Polo Shirt",
-      "price": 29.99,
-      "image": "image_url_7.jpg",
-      "brand": "PoloPro",
-      "size": ["S", "M", "L", "XL"],
-      "material": "Cotton",
-      "color": "Navy Blue/White",
-      "description": "A classic striped polo shirt for men in navy blue and white.",
-      "rating": 4.5,
-      "reviews": [
-        {
-          "username": "PoloFanatic",
-          "rating": 5,
-          "comment": "Perfect for a casual day out. Excellent quality!"
-        },
-        {
-          "username": "StyleGuru",
-          "rating": 4,
-          "comment": "Nice fit and comfortable fabric."
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "category": "Women's Clothing",
-      "name": "Boho Maxi Dress",
-      "price": 59.99,
-      "image": "image_url_8.jpg",
-      "brand": "BohoChic",
-      "size": ["XS", "S", "M", "L"],
-      "material": "Rayon",
-      "color": "Burgundy",
-      "description": "A stylish boho maxi dress in a beautiful burgundy color.",
-      "rating": 4.8,
-      "reviews": [
-        {
-          "username": "BohoQueen",
-          "rating": 5,
-          "comment": "Love the boho vibes! Great for festivals."
-        },
-        {
-          "username": "FashionistaLady",
-          "rating": 4,
-          "comment": "Elegant and comfortable dress."
-        }
-      ]
-    },
-    {
-      "id": 9,
-      "category": "Kids' Clothing",
-      "name": "Superhero Costume",
-      "price": 34.99,
-      "image": "image_url_9.jpg",
-      "brand": "HeroKids",
-      "size": ["2T", "3T", "4T", "5T"],
-      "material": "Polyester",
-      "color": "Red/Blue",
-      "description": "A fun superhero costume for kids with a red and blue design.",
-      "rating": 4.6,
-      "reviews": [
-        {
-          "username": "HeroMom",
-          "rating": 5,
-          "comment": "My child feels like a real superhero in this costume!"
-        },
-        {
-          "username": "CostumeFanatic",
-          "rating": 4,
-          "comment": "Perfect for dress-up play."
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "category": "Men's Clothing",
-      "name": "Casual Chinos",
-      "price": 39.99,
-      "image": "image_url_10.jpg",
-      "brand": "ChinoStyle",
-      "size": ["30Wx32L", "32Wx32L", "34Wx32L", "36Wx32L"],
-      "material": "Cotton",
-      "color": "Khaki",
-      "description": "Comfortable khaki chino pants for a casual look.",
-      "rating": 4.5,
-      "reviews": [
-        {
-          "username": "ChinoLover",
-          "rating": 5,
-          "comment": "Perfect fit and great for everyday wear!"
-        },
-        {
-          "username": "CasualStyleGuy",
+          "username": "FashionistaGirl",
           "rating": 4,
           "comment": "Versatile and stylish."
         }
       ]
     },
     {
-      "id": 11,
-      "category": "Women's Clothing",
-      "name": "Wraparound Skirt",
-      "price": 27.99,
-      "image": "image_url_11.jpg",
-      "brand": "WrapStyle",
-      "size": ["XS", "S", "M", "L"],
+      "id": 7,
+      "gender": "Men",
+      "category": "Bottomwear",
+      "name": "Cargo Shorts",
+      "price": 24.99,
+      "images": ["https://thehouseofrare.com/cdn/shop/products/IMG_0231_2f518c81-1dff-4a5c-a74b-3ef01ab9fc39_900x.jpg?v=1693565872", "https://thehouseofrare.com/cdn/shop/products/IMG_0235_a39091ff-f670-4fc6-894e-23b1613a6a44_900x.jpg?v=1675853900", "https://thehouseofrare.com/cdn/shop/products/IMG_0239_0a22fe97-4652-4000-949d-ad91b07fc174_900x.jpg?v=1675853900"],
+      "brand": "GAP",
+      "size": ["30", "32", "34", "36"],
       "material": "Cotton",
-      "color": "Navy Blue",
-      "description": "A chic navy blue wraparound skirt for women.",
-      "rating": 4.7,
-      "reviews": [
-        {
-          "username": "WrapLover",
-          "rating": 5,
-          "comment": "Love how versatile this skirt is! Perfect for summer."
-        },
-        {
-          "username": "FashionistaGal",
-          "rating": 4,
-          "comment": "Great addition to my wardrobe."
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "category": "Kids' Clothing",
-      "name": "Cartoon Print Pajamas",
-      "price": 21.99,
-      "image": "image_url_12.jpg",
-      "brand": "PajamaParty",
-      "size": ["2T", "3T", "4T", "5T"],
-      "material": "Cotton",
-      "color": "Multi-color",
-      "description": "Fun cartoon-themed pajamas for kids, perfect for bedtime.",
+      "color": "Olive",
+      "description": "Comfortable olive cargo shorts for men.",
       "rating": 4.6,
       "reviews": [
         {
-          "username": "SleepyParent",
+          "username": "ShortsFan",
           "rating": 5,
-          "comment": "My child loves these pajamas! Soft and cute."
+          "comment": "Great for outdoor activities."
         },
         {
-          "username": "PajamaFanatic",
+          "username": "CasualDude",
           "rating": 4,
-          "comment": "Comfy and adorable."
+          "comment": "Casual and functional."
         }
       ]
     },
     {
-      "id": 13,
-      "category": "Men's Clothing",
-      "name": "Plaid Flannel Shirt",
-      "price": 44.99,
-      "image": "image_url_13.jpg",
-      "brand": "FlannelWorks",
-      "size": ["S", "M", "L", "XL"],
-      "material": "Flannel",
-      "color": "Red/Black",
-      "description": "A classic red and black plaid flannel shirt for men.",
-      "rating": 4.8,
-      "reviews": [
-        {
-          "username": "FlannelLover",
-          "rating": 5,
-          "comment": "Warm and stylish! Perfect for fall."
-        },
-        {
-          "username": "CasualPlaidGuy",
-          "rating": 4,
-          "comment": "Great for casual wear."
-        }
-      ]
-    },
-    {
-      "id": 14,
-      "category": "Women's Clothing",
-      "name": "Lace Cocktail Dress",
-      "price": 69.99,
-      "image": "image_url_14.jpg",
-      "brand": "ElegantEve",
+      "id": 8,
+      "gender": "Women",
+      "category": "Topwear",
+      "name": "Turtleneck Sweater",
+      "price": 45.99,
+      "images": ["https://www.rareism.com/cdn/shop/files/ALLEN-BLACK6822_900x.jpg?v=1695214360", "https://www.rareism.com/cdn/shop/files/ALLEN-BLACK6878_900x.jpg?v=1695214360", "https://www.rareism.com/cdn/shop/files/ALLEN-BLACK6797_900x.jpg?v=1695214360"],
+      "brand": "Zara",
       "size": ["XS", "S", "M", "L"],
-      "material": "Lace",
+      "material": "Cashmere",
       "color": "Black",
-      "description": "An elegant black lace cocktail dress for special occasions.",
+      "description": "A cozy gray cashmere turtleneck sweater for women.",
       "rating": 4.9,
       "reviews": [
         {
-          "username": "CocktailQueen",
+          "username": "SweaterQueen",
           "rating": 5,
-          "comment": "Stunning dress! Received many compliments."
-        },
-        {
-          "username": "ElegantLady",
-          "rating": 5,
-          "comment": "Perfect for formal events."
-        }
-      ]
-    },
-    {
-      "id": 15,
-      "category": "Kids' Clothing",
-      "name": "Cute Animal Onesie",
-      "price": 29.99,
-      "image": "image_url_15.jpg",
-      "brand": "OnesieCraze",
-      "size": ["2T", "3T", "4T", "5T"],
-      "material": "Fleece",
-      "color": "Pink",
-      "description": "A cozy pink onesie with cute animal designs for kids.",
-      "rating": 4.7,
-      "reviews": [
-        {
-          "username": "OnesieLover",
-          "rating": 5,
-          "comment": "Adorable and warm! My child loves it."
-        },
-        {
-          "username": "CozyParent",
-          "rating": 4,
-          "comment": "Great for chilly nights."
-        }
-      ]
-    },
-    {
-      "id": 16,
-      "category": "Men's Clothing",
-      "name": "V-Neck Sweater",
-      "price": 39.99,
-      "image": "image_url_16.jpg",
-      "brand": "SweaterMasters",
-      "size": ["S", "M", "L", "XL"],
-      "material": "Wool",
-      "color": "Gray",
-      "description": "A stylish gray v-neck sweater for men made from cozy wool.",
-      "rating": 4.7,
-      "reviews": [
-        {
-          "username": "SweaterFanatic",
-          "rating": 5,
-          "comment": "Warm and fashionable! Great for winter."
-        },
-        {
-          "username": "FashionableGuy",
-          "rating": 4,
-          "comment": "Classic and versatile."
-        }
-      ]
-    },
-    {
-      "id": 17,
-      "category": "Women's Clothing",
-      "name": "Casual Jumpsuit",
-      "price": 49.99,
-      "image": "image_url_17.jpg",
-      "brand": "CasualChic",
-      "size": ["XS", "S", "M", "L"],
-      "material": "Cotton",
-      "color": "Navy Blue",
-      "description": "A comfy navy blue casual jumpsuit for women.",
-      "rating": 4.6,
-      "reviews": [
-        {
-          "username": "JumpsuitLover",
-          "rating": 5,
-          "comment": "Love the relaxed fit! Great for everyday wear."
-        },
-        {
-          "username": "CasualStyleGal",
-          "rating": 4,
-          "comment": "Stylish and easy to wear."
-        }
-      ]
-    },
-    {
-      "id": 18,
-      "category": "Kids' Clothing",
-      "name": "Colorful Raincoat",
-      "price": 24.99,
-      "image": "image_url_18.jpg",
-      "brand": "RainyDays",
-      "size": ["2T", "3T", "4T", "5T"],
-      "material": "Waterproof Polyester",
-      "color": "Rainbow",
-      "description": "A fun rainbow-colored raincoat for kids to stay dry on rainy days.",
-      "rating": 4.5,
-      "reviews": [
-        {
-          "username": "RaincoatKid",
-          "rating": 5,
-          "comment": "Bright and cheerful! Keeps my child dry."
-        },
-        {
-          "username": "RainyDayParent",
-          "rating": 4,
-          "comment": "Practical and cute."
-        }
-      ]
-    },
-    {
-      "id": 19,
-      "category": "Men's Clothing",
-      "name": "Leather Jacket",
-      "price": 89.99,
-      "image": "image_url_19.jpg",
-      "brand": "LeatherCraft",
-      "size": ["S", "M", "L", "XL"],
-      "material": "Genuine Leather",
-      "color": "Black",
-      "description": "A classic black leather jacket for men made from genuine leather.",
-      "rating": 4.8,
-      "reviews": [
-        {
-          "username": "LeatherLover",
-          "rating": 5,
-          "comment": "High-quality and stylish! A must-have."
-        },
-        {
-          "username": "FashionForwardGuy",
-          "rating": 4,
-          "comment": "Adds an edge to any outfit."
-        }
-      ]
-    },
-    {
-      "id": 20,
-      "category": "Women's Clothing",
-      "name": "Striped Blouse",
-      "price": 29.99,
-      "image": "image_url_20.jpg",
-      "brand": "StripesFashion",
-      "size": ["XS", "S", "M", "L"],
-      "material": "Polyester",
-      "color": "Black/White",
-      "description": "A stylish black and white striped blouse for women.",
-      "rating": 4.7,
-      "reviews": [
-        {
-          "username": "StripesFan",
-          "rating": 5,
-          "comment": "Love the stripes! Great for both work and casual outings."
+          "comment": "Luxurious and warm!"
         },
         {
           "username": "FashionistaLady",
           "rating": 4,
-          "comment": "Versatile and chic."
+          "comment": "Perfect for the winter season."
         }
       ]
     },
     {
-      "id": 21,
-      "category": "Kids' Clothing",
-      "name": "Superhero T-Shirt",
-      "price": 17.99,
-      "image": "image_url_21.jpg",
-      "brand": "HeroKids",
-      "size": ["2T", "3T", "4T", "5T"],
-      "material": "Cotton",
-      "color": "Red",
-      "description": "A cool red superhero-themed T-shirt for kids.",
-      "rating": 4.6,
-      "reviews": [
-        {
-          "username": "SuperKid",
-          "rating": 5,
-          "comment": "My child feels like a hero in this shirt! Great quality."
-        },
-        {
-          "username": "HeroFanatic",
-          "rating": 4,
-          "comment": "Perfect for playtime and superhero adventures."
-        }
-      ]
-    },
-    {
-      "id": 22,
-      "category": "Men's Clothing",
-      "name": "Crew Neck Sweater",
+      "id": 9,
+      "gender": "Men",
+      "category": "Topwear",
+      "name": "Hooded Sweatshirt",
       "price": 29.99,
-      "image": "image_url_22.jpg",
-      "brand": "SweaterMasters",
+      "images": ["https://thehouseofrare.com/cdn/shop/products/IMG_0023_8279b4bf-346c-4a7f-92db-02cca11190ef_900x.jpg?v=1632894789", "https://thehouseofrare.com/cdn/shop/products/Layer3_25ff18c1-f201-41d4-8d8f-0f828588eb13_900x.jpg?v=1632894837", "https://thehouseofrare.com/cdn/shop/products/IMG_0001_7_8cda1974-6487-4d1e-82a2-730e1009b35c_900x.jpg?v=1632894998"],
+      "brand": "Gap",
       "size": ["S", "M", "L", "XL"],
-      "material": "Cotton",
-      "color": "Navy Blue",
-      "description": "A comfortable navy blue crew neck sweater for men.",
-      "rating": 4.5,
-      "reviews": [
-        {
-          "username": "SweaterFan",
-          "rating": 5,
-          "comment": "Cozy and stylish! Great for layering."
-        },
-        {
-          "username": "FashionableGuy",
-          "rating": 4,
-          "comment": "Versatile and easy to pair with."
-        }
-      ]
-    },
-    {
-      "id": 23,
-      "category": "Women's Clothing",
-      "name": "Boho Kimono",
-      "price": 39.99,
-      "image": "image_url_23.jpg",
-      "brand": "BohoChic",
-      "size": ["XS", "S", "M", "L"],
-      "material": "Chiffon",
-      "color": "Turquoise",
-      "description": "A stylish turquoise boho kimono for women.",
-      "rating": 4.8,
-      "reviews": [
-        {
-          "username": "BohoQueen",
-          "rating": 5,
-          "comment": "Love the boho vibes! Perfect for summer festivals."
-        },
-        {
-          "username": "FashionistaGal",
-          "rating": 4,
-          "comment": "Elegant and easy-breezy."
-        }
-      ]
-    },
-    {
-      "id": 24,
-      "category": "Kids' Clothing",
-      "name": "Denim Overalls",
-      "price": 34.99,
-      "image": "image_url_24.jpg",
-      "brand": "DenimDeluxe",
-      "size": ["2T", "3T", "4T", "5T"],
-      "material": "Denim",
-      "color": "Blue",
-      "description": "Classic blue denim overalls for kids, perfect for playtime.",
+      "material": "Cotton Blend",
+      "color": "Mustard",
+      "description": "A classic black hooded sweatshirt for men.",
       "rating": 4.7,
       "reviews": [
         {
-          "username": "DenimLover",
+          "username": "SweatshirtFanatic",
           "rating": 5,
-          "comment": "These overalls are adorable and durable! My child loves them."
+          "comment": "Comfortable and stylish!"
         },
         {
-          "username": "FashionableParent",
+          "username": "Sweatshirtlover",
           "rating": 4,
-          "comment": "Great for everyday wear."
+          "comment": "Great for workouts and casual wear."
         }
       ]
     },
     {
-      "id": 25,
-      "category": "Men's Clothing",
+      "id": 10,
+      "gender": "Women",
+      "category": "Bottomwear",
+      "name": "High-Waisted Jeans",
+      "price": 54.99,
+      "images": ["https://www.rareism.com/cdn/shop/products/Layer4_9aaa889b-f734-4ac8-b692-791ec5fcb905_900x.jpg?v=1660915944", "https://www.rareism.com/cdn/shop/products/GOLIATH_GREY_18_900x.jpg?v=1660915944", "https://www.rareism.com/cdn/shop/products/GOLIATH_GREY_27_900x.jpg?v=1660915944"],
+      "brand": "Guess",
+      "size": ["24Wx30L", "26Wx30L", "28Wx30L", "30Wx30L"],
+      "material": "Denim",
+      "color": "Light Grey",
+      "description": "Stylish medium blue high-waisted jeans for women.",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "username": "JeansQueen",
+          "rating": 5,
+          "comment": "Flattering and trendy!"
+        },
+        {
+          "username": "FashionistaGirl",
+          "rating": 4,
+          "comment": "Great for a night out."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "gender": "Men",
+      "category": "Topwear",
       "name": "Polo Shirt",
-      "price": 27.99,
-      "image": "image_url_25.jpg",
-      "brand": "PoloPro",
+      "price": 24.99,
+      "images": ["https://thehouseofrare.com/cdn/shop/products/IMG_0016_faf6925a-4cfd-4584-9d0e-ebbbbaabb027_900x.jpg?v=1663857719", "https://thehouseofrare.com/cdn/shop/products/HERO-CROP_5fa4f04f-fc6c-4c78-a7d9-c5589439f097_900x.jpg?v=1663854178", "https://thehouseofrare.com/cdn/shop/products/IMG_0014_aceae385-7936-46b3-a35c-8d9d8208777d_900x.jpg?v=1663780866"],
+      "brand": "Lacoste",
       "size": ["S", "M", "L", "XL"],
       "material": "Cotton",
-      "color": "Red",
-      "description": "A classic red polo shirt for men in soft cotton.",
+      "color": "Navy",
+      "description": "A classic navy polo shirt for men.",
       "rating": 4.6,
       "reviews": [
         {
           "username": "PoloFanatic",
           "rating": 5,
-          "comment": "Perfect for a sporty look. Excellent quality!"
+          "comment": "Timeless and comfortable!"
         },
         {
-          "username": "StyleGuru",
+          "username": "CasualDude",
           "rating": 4,
-          "comment": "Nice fit and comfortable fabric."
+          "comment": "Great for a casual look."
         }
       ]
     },
     {
-      "id": 26,
-      "category": "Women's Clothing",
-      "name": "Midi Wrap Dress",
-      "price": 49.99,
-      "image": "image_url_26.jpg",
-      "brand": "WrapStyle",
-      "size": ["XS", "S", "M", "L"],
-      "material": "Polyester",
-      "color": "Navy Blue",
-      "description": "A chic navy blue midi wrap dress for women.",
-      "rating": 4.7,
-      "reviews": [
-        {
-          "username": "WrapLover",
-          "rating": 5,
-          "comment": "Love the wrap style! Perfect for work and events."
-        },
-        {
-          "username": "FashionistaGal",
-          "rating": 4,
-          "comment": "Elegant and versatile."
-        }
-      ]
-    },
-    {
-      "id": 27,
-      "category": "Kids' Clothing",
-      "name": "Striped Sweater",
-      "price": 24.99,
-      "image": "image_url_27.jpg",
-      "brand": "StripeTrend",
-      "size": ["2T", "3T", "4T", "5T"],
-      "material": "Cotton",
-      "color": "Blue/White",
-      "description": "A cute blue and white striped sweater for kids.",
-      "rating": 4.6,
-      "reviews": [
-        {
-          "username": "SweaterLover",
-          "rating": 5,
-          "comment": "Soft and stylish! Great for chilly days."
-        },
-        {
-          "username": "FashionableParent",
-          "rating": 4,
-          "comment": "Versatile and cozy."
-        }
-      ]
-    },
-    {
-      "id": 28,
-      "category": "Men's Clothing",
-      "name": "Hooded Jacket",
-      "price": 59.99,
-      "image": "image_url_28.jpg",
-      "brand": "OutdoorReady",
-      "size": ["S", "M", "L", "XL"],
-      "material": "Polyester",
-      "color": "Black",
-      "description": "A versatile black hooded jacket for men, perfect for outdoor activities.",
-      "rating": 4.8,
-      "reviews": [
-        {
-          "username": "OutdoorEnthusiast",
-          "rating": 5,
-          "comment": "This jacket is a great addition to my outdoor gear!"
-        },
-        {
-          "username": "FashionForwardGuy",
-          "rating": 4,
-          "comment": "Stylish and functional."
-        }
-      ]
-    },
-    {
-      "id": 29,
-      "category": "Women's Clothing",
-      "name": "Suede Skirt",
+      "id": 12,
+      "gender": "Women",
+      "category": "Topwear",
+      "name": "Cropped Hoodie",
       "price": 34.99,
-      "image": "image_url_29.jpg",
-      "brand": "SuedeStyle",
+      "images": ["https://www.rareism.com/cdn/shop/files/FINN-PINK-SWEAT2029_900x.jpg?v=1693215214", "https://www.rareism.com/cdn/shop/files/FINN-PINK-SWEAT1980_900x.jpg?v=1693215214", "https://www.rareism.com/cdn/shop/files/FINN-PINK-SWEAT1954_900x.jpg?v=1693215214"],
+      "brand": "Adidas",
       "size": ["XS", "S", "M", "L"],
-      "material": "Suede",
-      "color": "Tan",
-      "description": "A trendy tan suede skirt for women.",
-      "rating": 4.7,
-      "reviews": [
-        {
-          "username": "SuedeLover",
-          "rating": 5,
-          "comment": "This skirt is so chic and comfortable! Love it."
-        },
-        {
-          "username": "FashionistaGal",
-          "rating": 4,
-          "comment": "Stylish and easy to pair with."
-        }
-      ]
-    },
-    {
-      "id": 30,
-      "category": "Kids' Clothing",
-      "name": "Cotton Pajama Set",
-      "price": 19.99,
-      "image": "image_url_30.jpg",
-      "brand": "PajamaParty",
-      "size": ["2T", "3T", "4T", "5T"],
-      "material": "Cotton",
-      "color": "Blue/White",
-      "description": "A comfy cotton pajama set for kids with a blue and white design.",
-      "rating": 4.5,
-      "reviews": [
-        {
-          "username": "SleepyParent",
-          "rating": 5,
-          "comment": "My child sleeps soundly in these pajamas! Soft and cozy."
-        },
-        {
-          "username": "PajamaFanatic",
-          "rating": 4,
-          "comment": "Comfy and adorable."
-        }
-      ]
-    },
-    {
-      "id": 31,
-      "category": "Men's Clothing",
-      "name": "Slim Fit Trousers",
-      "price": 39.99,
-      "image": "image_url_31.jpg",
-      "brand": "ChinoStyle",
-      "size": ["30Wx32L", "32Wx32L", "34Wx32L", "36Wx32L"],
-      "material": "Cotton",
-      "color": "Charcoal Gray",
-      "description": "Stylish charcoal gray slim fit trousers for men.",
-      "rating": 4.8,
-      "reviews": [
-        {
-          "username": "StyleEnthusiast",
-          "rating": 5,
-          "comment": "These trousers fit perfectly and look great!"
-        },
-        {
-          "username": "FashionistaGuy",
-          "rating": 4,
-          "comment": "Great choice for a polished look."
-        }
-      ]
-    },
-    {
-      "id": 32,
-      "category": "Women's Clothing",
-      "name": "Boho Print Maxi Dress",
-      "price": 59.99,
-      "image": "image_url_32.jpg",
-      "brand": "BohoChic",
-      "size": ["XS", "S", "M", "L"],
-      "material": "Rayon",
-      "color": "Boho Print",
-      "description": "A stunning boho print maxi dress for women.",
-      "rating": 4.7,
-      "reviews": [
-        {
-          "username": "BohoQueen",
-          "rating": 5,
-          "comment": "Absolutely love this dress! Perfect for boho lovers."
-        },
-        {
-          "username": "FashionistaLady",
-          "rating": 4,
-          "comment": "Elegant and comfortable dress."
-        }
-      ]
-    },
-    {
-      "id": 33,
-      "category": "Kids' Clothing",
-      "name": "Cartoon Print T-Shirt Set",
-      "price": 21.99,
-      "image": "image_url_33.jpg",
-      "brand": "DinoKids",
-      "size": ["2T", "3T", "4T", "5T"],
-      "material": "Cotton",
-      "color": "Multi-color",
-      "description": "Fun cartoon-themed T-shirt set for kids, perfect for playtime.",
-      "rating": 4.6,
-      "reviews": [
-        {
-          "username": "DinoLoverMom",
-          "rating": 5,
-          "comment": "My child adores these shirts! Soft and fun designs."
-        },
-        {
-          "username": "KidFashionista",
-          "rating": 4,
-          "comment": "Perfect for active kids."
-        }
-      ]
-    },
-    {
-      "id": 34,
-      "category": "Men's Clothing",
-      "name": "Wool Peacoat",
-      "price": 74.99,
-      "image": "image_url_34.jpg",
-      "brand": "PeacoatMasters",
-      "size": ["S", "M", "L", "XL"],
-      "material": "Wool Blend",
-      "color": "Navy Blue",
-      "description": "A classic navy blue wool peacoat for men.",
-      "rating": 4.9,
-      "reviews": [
-        {
-          "username": "PeacoatLover",
-          "rating": 5,
-          "comment": "Warm and stylish! Perfect for the winter season."
-        },
-        {
-          "username": "FashionForwardGuy",
-          "rating": 5,
-          "comment": "A timeless piece for any wardrobe."
-        }
-      ]
-    },
-    {
-      "id": 35,
-      "category": "Women's Clothing",
-      "name": "Ruffle Blouse",
-      "price": 34.99,
-      "image": "image_url_35.jpg",
-      "brand": "ChicRuffles",
-      "size": ["XS", "S", "M", "L"],
-      "material": "Polyester",
-      "color": "White",
-      "description": "A chic white ruffle blouse for women.",
-      "rating": 4.7,
-      "reviews": [
-        {
-          "username": "RuffleQueen",
-          "rating": 5,
-          "comment": "Love the ruffles! Great for both casual and formal wear."
-        },
-        {
-          "username": "FashionistaGal",
-          "rating": 4,
-          "comment": "Stylish and versatile."
-        }
-      ]
-    },
-    {
-      "id": 36,
-      "category": "Kids' Clothing",
-      "name": "Printed Hoodie",
-      "price": 24.99,
-      "image": "image_url_36.jpg",
-      "brand": "HoodieTrend",
-      "size": ["2T", "3T", "4T", "5T"],
       "material": "Cotton Blend",
-      "color": "Gray",
-      "description": "A cool gray printed hoodie for kids.",
-      "rating": 4.6,
+      "color": "Pink",
+      "description": "A trendy pink cropped hoodie for women.",
+      "rating": 4.7,
       "reviews": [
         {
           "username": "HoodieLover",
           "rating": 5,
-          "comment": "My child loves this hoodie! Soft and stylish."
+          "comment": "Stylish and comfortable!"
         },
         {
-          "username": "FashionableParent",
+          "username": "SportyGirl",
           "rating": 4,
-          "comment": "Great for casual outings."
+          "comment": "Perfect for a sporty look."
         }
       ]
     },
     {
-      "id": 37,
-      "category": "Men's Clothing",
-      "name": "Classic Suit",
-      "price": 129.99,
-      "image": "image_url_37.jpg",
-      "brand": "SuitedUp",
-      "size": ["S", "M", "L", "XL"],
-      "material": "Wool Blend",
-      "color": "Black",
-      "description": "A classic black wool blend suit for men, perfect for formal occasions.",
-      "rating": 4.9,
-      "reviews": [
-        {
-          "username": "SuitedUpMan",
-          "rating": 5,
-          "comment": "This suit fits perfectly and looks elegant! Highly recommended."
-        },
-        {
-          "username": "FashionForwardGuy",
-          "rating": 5,
-          "comment": "A must-have for any gentleman."
-        }
-      ]
-    },
-    {
-      "id": 38,
-      "category": "Women's Clothing",
-      "name": "Floral Print Blouse",
-      "price": 29.99,
-      "image": "image_url_38.jpg",
-      "brand": "FloralChic",
-      "size": ["XS", "S", "M", "L"],
-      "material": "Polyester",
-      "color": "Pink Floral",
-      "description": "A lovely pink floral print blouse for women.",
-      "rating": 4.7,
-      "reviews": [
-        {
-          "username": "FloralFan",
-          "rating": 5,
-          "comment": "Adore the floral print! Great for a feminine look."
-        },
-        {
-          "username": "FashionistaGal",
-          "rating": 4,
-          "comment": "Stylish and versatile."
-        }
-      ]
-    },
-    {
-      "id": 39,
-      "category": "Kids' Clothing",
-      "name": "Striped Leggings",
-      "price": 17.99,
-      "image": "image_url_39.jpg",
-      "brand": "StripeTrend",
-      "size": ["2T", "3T", "4T", "5T"],
-      "material": "Cotton Blend",
-      "color": "Pink/White",
-      "description": "Cute pink and white striped leggings for kids.",
-      "rating": 4.6,
-      "reviews": [
-        {
-          "username": "LeggingsLover",
-          "rating": 5,
-          "comment": "These leggings are comfy and stylish! Perfect for active kids."
-        },
-        {
-          "username": "FashionableParent",
-          "rating": 4,
-          "comment": "Versatile and easy to mix and match."
-        }
-      ]
-    },
-    {
-      "id": 40,
-      "category": "Men's Clothing",
-      "name": "Casual Denim Jacket",
-      "price": 47.99,
-      "image": "image_url_40.jpg",
-      "brand": "DenimDeluxe",
-      "size": ["S", "M", "L", "XL"],
-      "material": "Denim",
-      "color": "Blue",
-      "description": "A stylish blue denim jacket for men, perfect for a casual look.",
+      "id": 13,
+      "gender": "Men",
+      "category": "Bottomwear",
+      "name": "Slim Fit Denim Pant",
+      "price": 49.99,
+      "images": ["https://thehouseofrare.com/cdn/shop/files/SAM-DUSKY-BLUE-HERO_900x.jpg?v=1692011895", "https://thehouseofrare.com/cdn/shop/files/SAM-DUSKY-BLUE-00882_900x.jpg?v=1692012697", "https://thehouseofrare.com/cdn/shop/files/SAM-DUSKY-BLUE-00865_900x.jpg?v=1692012697"],
+      "brand": "Calvin Klein",
+      "size": ["30Wx32L", "32Wx32L", "34Wx32L", "36Wx32L"],
+      "material": "Cotton",
+      "color": "Light Blue",
+      "description": "Elegant charcoal wool blend slim fit dress pants for men.",
       "rating": 4.8,
       "reviews": [
         {
-          "username": "DenimLover",
+          "username": "DressPantsFan",
           "rating": 5,
-          "comment": "This jacket is a must-have for denim enthusiasts! Great quality."
+          "comment": "Perfect for formal occasions."
         },
         {
-          "username": "FashionForwardGuy",
+          "username": "FashionistaGuy",
           "rating": 4,
-          "comment": "Versatile and trendy."
+          "comment": "Great quality and fit."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "gender": "Women",
+      "category": "Topwear",
+      "name": "Off-Shoulder Top",
+      "price": 27.99,
+      "images": ["https://www.rareism.com/cdn/shop/products/IMG_0185_62e1923a-8283-4661-9e7c-459f6432e520_900x.jpg?v=1668060209", "https://www.rareism.com/cdn/shop/products/IMG_0201_1fd60adf-fe50-40f6-85a4-8ba3edd513b9_900x.jpg?v=1668060209", "https://www.rareism.com/cdn/shop/products/IMG_0144_ae815ff4-bc72-4cec-9da8-9cf390e0eb96_900x.jpg?v=1668060209"],
+      "brand": "Forever 21",
+      "size": ["XS", "S", "M", "L"],
+      "material": "Cotton",
+      "color": "Red",
+      "description": "A chic white off-shoulder top for women.",
+      "rating": 4.6,
+      "reviews": [
+        {
+          "username": "FashionistaQueen",
+          "rating": 5,
+          "comment": "Perfect for a summer look!"
+        },
+        {
+          "username": "TrendyGirl",
+          "rating": 4,
+          "comment": "Stylish and comfortable."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "gender": "Men",
+      "category": "Bottomwear",
+      "name": "Casual Shorts",
+      "price": 22.99,
+      "images": ["https://thehouseofrare.com/cdn/shop/products/IMG_0301_1fa7f759-db1e-4191-9b7f-604a413bdc94_900x.jpg?v=1693565847", "https://thehouseofrare.com/cdn/shop/products/IMG_0306_137888aa-f103-4fea-87db-2f4143633d12_900x.jpg?v=1693565847", "https://thehouseofrare.com/cdn/shop/products/IMG_0313_ddf3aac1-c0b5-412e-a3f6-5eaeb0e232ae_900x.jpg?v=1693565847"],
+      "brand": "Old Navy",
+      "size": ["30", "32", "34", "36"],
+      "material": "Cotton",
+      "color": "Gray",
+      "description": "Comfortable gray casual shorts for men.",
+      "rating": 4.5,
+      "reviews": [
+        {
+          "username": "ShortsFanatic",
+          "rating": 5,
+          "comment": "Great for everyday wear."
+        },
+        {
+          "username": "CasualDude",
+          "rating": 4,
+          "comment": "Casual and comfy."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "gender": "Women",
+      "category": "Topwear",
+      "name": "Wrap Dress",
+      "price": 39.99,
+      "images": ["https://www.rareism.com/cdn/shop/products/IMG_0069_871aca56-c92c-4e06-aecb-2db99166bf13_900x.jpg?v=1664540527", "https://www.rareism.com/cdn/shop/products/IMG_0069_871aca56-c92c-4e06-aecb-2db99166bf13_900x.jpg?v=1664540527", "https://www.rareism.com/cdn/shop/products/IMG_0073_51de673b-f637-4a6a-ad25-c859a323c0de_900x.jpg?v=1664540527"],
+      "brand": "H&M",
+      "size": ["XS", "S", "M", "L"],
+      "material": "Polyester",
+      "color": "Lavendar Floral",
+      "description": "A stylish red floral wrap dress for women.",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "username": "DressLover",
+          "rating": 5,
+          "comment": "Perfect for a romantic evening!"
+        },
+        {
+          "username": "FashionistaLady",
+          "rating": 4,
+          "comment": "Beautiful and comfortable."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "gender": "Men",
+      "category": "Topwear",
+      "name": "Hawaiian Shirt",
+      "price": 32.99,
+      "images": ["https://thehouseofrare.com/cdn/shop/files/EASE-BLACK1524_900x.jpg?v=1692699317", "https://thehouseofrare.com/cdn/shop/files/EASE-BLACK1518_900x.jpg?v=1692699317", "https://thehouseofrare.com/cdn/shop/files/EASE-BLACK1515_900x.jpg?v=1692699317"],
+      "brand": "Tommy Bahama",
+      "size": ["S", "M", "L", "XL"],
+      "material": "Cotton",
+      "color": "Blue Floral",
+      "description": "A stylish blue floral Hawaiian shirt for men.",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "username": "HawaiiFan",
+          "rating": 5,
+          "comment": "Perfect for a tropical getaway!"
+        },
+        {
+          "username": "CasualDude",
+          "rating": 4,
+          "comment": "Comfortable and trendy."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "gender": "Women",
+      "category": "Topwear",
+      "name": "Peplum Top",
+      "price": 29.99,
+      "images": ["https://www.rareism.com/cdn/shop/files/IMG_0014_1_609ab785-6cbd-4116-81bb-3fa83086d656_900x.jpg?v=1686907786", "https://www.rareism.com/cdn/shop/files/IMG_0007_1_abad28f2-876d-4d6f-82b9-ea0f119afb92_900x.jpg?v=1686907786", "https://www.rareism.com/cdn/shop/files/IMG_0026_4d3ba8c7-cc54-44ad-9591-55cbf600df74_900x.jpg?v=1686907786"],
+      "brand": "Express",
+      "size": ["XS", "S", "M", "L"],
+      "material": "Cotton",
+      "color": "Blue",
+      "description": "A chic black peplum top for women.",
+      "rating": 4.6,
+      "reviews": [
+        {
+          "username": "FashionistaQueen",
+          "rating": 5,
+          "comment": "Flattering and stylish!"
+        },
+        {
+          "username": "TrendyGirl",
+          "rating": 4,
+          "comment": "Great for a night out."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "gender": "Men",
+      "category": "Bottomwear",
+      "name": "Jogger Pants",
+      "price": 34.99,
+      "images": ["https://thehouseofrare.com/cdn/shop/files/BASTIAN-BEIGE3016HERO_900x.jpg?v=1693807429", "https://thehouseofrare.com/cdn/shop/files/BASTIAN-BEIGE3019_900x.jpg?v=1694084725", "https://thehouseofrare.com/cdn/shop/files/BASTIAN-BEIGE3009_900x.jpg?v=1694084725"],
+      "brand": "Adidas",
+      "size": ["30Wx32L", "32Wx32L", "34Wx32L", "36Wx32L"],
+      "material": "Cotton Blend",
+      "color": "Beige",
+      "description": "Comfortable Beige jogger pants for men.",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "username": "JoggerFan",
+          "rating": 5,
+          "comment": "Great for workouts and lounging."
+        },
+        {
+          "username": "SportyGuy",
+          "rating": 4,
+          "comment": "Casual and comfy."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "gender": "Women",
+      "category": "Topwear",
+      "name": "Crop Top",
+      "price": 19.99,
+      "images": ["https://www.rareism.com/cdn/shop/files/AINARA-PURPLE6505_900x.jpg?v=1693894561", "https://www.rareism.com/cdn/shop/files/AINARA-PURPLE6515_900x.jpg?v=1694173847", "https://www.rareism.com/cdn/shop/files/AINARA-PURPLE6516_900x.jpg?v=1694173847"],
+      "brand": "Forever 21",
+      "size": ["XS", "S", "M", "L"],
+      "material": "Cotton",
+      "color": "Maroon",
+      "description": "A trendy maroon crop top for women.",
+      "rating": 4.6,
+      "reviews": [
+        {
+          "username": "TrendyGirl",
+          "rating": 5,
+          "comment": "Stylish and comfortable!"
+        },
+        {
+          "username": "FashionistaQueen",
+          "rating": 4,
+          "comment": "Perfect for a casual look."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "gender": "Men",
+      "category": "Bottomwear",
+      "name": "Cargo Pants",
+      "price": 39.99,
+      "images": ["https://thehouseofrare.com/cdn/shop/files/IMG_0015_62a9810f-dca8-4546-9ebd-fffa93485401_900x.jpg?v=1689678337", "https://thehouseofrare.com/cdn/shop/files/IMG_0051_91770241-24d2-4b44-8b6c-63f30f6ee0fc_900x.jpg?v=1688037503", "https://thehouseofrare.com/cdn/shop/files/IMG_0041_ffcea146-5f7b-4149-af97-b5d762ad466a_900x.jpg?v=1689145914"],
+      "brand": "GAP",
+      "size": ["30Wx32L", "32Wx32L", "34Wx32L", "36Wx32L"],
+      "material": "Olive",
+      "color": "Black",
+      "description": "Stylish olive cargo pants for men.",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "username": "CargoFanatic",
+          "rating": 5,
+          "comment": "Great for both style and functionality."
+        },
+        {
+          "username": "FashionistaGuy",
+          "rating": 4,
+          "comment": "Comfortable and trendy."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "gender": "Women",
+      "category": "Topwear",
+      "name": "Ruffled Blouse",
+      "price": 27.99,
+      "images": ["https://www.rareism.com/cdn/shop/files/SPORN-ORANGE-CC2547HERO_900x.jpg?v=1689340246", "https://www.rareism.com/cdn/shop/files/SPORN-ORANGE-CC2529_900x.jpg?v=1689340246", "https://www.rareism.com/cdn/shop/files/SPORN-ORANGE-CC2498_900x.jpg?v=1689340246"],
+      "brand": "Zara",
+      "size": ["XS", "S", "M", "L"],
+      "material": "Polyester",
+      "color": "White& Yellow",
+      "description": "A chic white ruffled blouse for women.",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "username": "FashionistaQueen",
+          "rating": 5,
+          "comment": "Perfect for a sophisticated look."
+        },
+        {
+          "username": "TrendyGirl",
+          "rating": 4,
+          "comment": "Stylish and comfortable."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "gender": "Men",
+      "category": "Topmwear",
+      "name": "Green Shirt",
+      "price": 22.99,
+      "images": ["https://thehouseofrare.com/cdn/shop/files/LYTON-DARK-GREN4580HEROHEROHERO_900x.jpg?v=1693915853", "https://thehouseofrare.com/cdn/shop/files/LYTON-DARK-GREN4585_900x.jpg?v=1694066215", "https://thehouseofrare.com/cdn/shop/files/LYTON-DARK-GREN4581_900x.jpg?v=1694066215"],
+      "brand": "Old Navy",
+      "size": ["30", "32", "34", "36"],
+      "material": "Cotton",
+      "color": "Green",
+      "description": "Comfortable khaki shorts for men.",
+      "rating": 4.6,
+      "reviews": [
+        {
+          "username": "ShortsFanatic",
+          "rating": 5,
+          "comment": "Great for casual outings."
+        },
+        {
+          "username": "CasualDude",
+          "rating": 4,
+          "comment": "Casual and comfy."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "gender": "Women",
+      "category": "Topwear",
+      "name": "Designer Blue shirt",
+      "price": 19.99,
+      "images": ["https://www.rareism.com/cdn/shop/products/BUMBLEBLUETOP_16_900x.jpg?v=1645791691", "https://www.rareism.com/cdn/shop/products/BUMBLEBLUETOP_18_900x.jpg?v=1645791691", "https://www.rareism.com/cdn/shop/products/BUMBLEBLUETOP_27_900x.jpg?v=1645791691"],
+      "brand": "Forever 21",
+      "size": ["XS", "S", "M", "L"],
+      "material": "Polyester",
+      "color": "Skyblue",
+      "description": "A stylish black lace camisole for women.",
+      "rating": 4.5,
+      "reviews": [
+        {
+          "username": "Instafashionist",
+          "rating": 5,
+          "comment": "Beautiful and comfortable."
+        },
+        {
+          "username": "FashionistaQueen",
+          "rating": 4,
+          "comment": "Perfect for a night out."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "gender": "Men",
+      "category": "Topwear",
+      "name": "Flannel Shirt",
+      "price": 34.99,
+      "images": ["https://thehouseofrare.com/cdn/shop/files/IMG_0157_666fe97a-dcd4-4381-a5ed-ae158fcafd98_900x.jpg?v=1685783693", "https://thehouseofrare.com/cdn/shop/files/IMG_0176_a11365fc-3c59-40de-9f38-cdb82c797fea_900x.jpg?v=1685783693", "https://thehouseofrare.com/cdn/shop/files/IMG_0153_1d259444-f6b7-4dde-97dd-1ea8e13adcfd_900x.jpg?v=1685783693"],
+      "brand": "Gap",
+      "size": ["S", "M", "L", "XL"],
+      "material": "Flannel",
+      "color": "White/Orange",
+      "description": "A classic red and black flannel shirt for men.",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "username": "FlannelFanatic",
+          "rating": 5,
+          "comment": "Cozy and stylish!"
+        },
+        {
+          "username": "CasualDude",
+          "rating": 4,
+          "comment": "Great for a casual look."
         }
       ]
     }
