@@ -12,7 +12,12 @@
         "https://thehouseofrare.com/cdn/shop/files/DROVIE-DARK-PURPLE2547_900x.jpg?v=1692355812"
       ],
       "brand": "H&M",
-      "size": ["S", "M", "L", "XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
       "material": "Cotton",
       "color": "Grey",
       "description": "A classic white crew neck t-shirt for men.",
@@ -42,7 +47,12 @@
         "https://www.rareism.com/cdn/shop/products/IMG_0434_a0de29b6-1948-4a29-b7fa-5a8d224c983e_160x.jpg?v=1686569011"
       ],
       "brand": "Zara",
-      "size": ["XS", "S", "M", "L"],
+      "size": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
       "material": "Silk",
       "color": "Blue",
       "description": "A stylish blue silk v-neck blouse for women.",
@@ -72,7 +82,12 @@
         "https://thehouseofrare.com/cdn/shop/products/IMG_0135_358d1c1a-949e-461b-a7ab-201f8a37b4cf_900x.jpg?v=1668780794"
       ],
       "brand": "Levi's",
-      "size": ["30Wx32L", "32Wx32L", "34Wx32L", "36Wx32L"],
+      "size": [
+        "30Wx32L",
+        "32Wx32L",
+        "34Wx32L",
+        "36Wx32L"
+      ],
       "material": "Denim",
       "color": "Dark Blue",
       "description": "Classic dark blue slim fit jeans for men.",
@@ -102,7 +117,12 @@
         "https://www.rareism.com/cdn/shop/products/Layer2_9d51a802-7aca-4bda-94e6-13a136b9deef_900x.jpg?v=1661174565"
       ],
       "brand": "Gap",
-      "size": ["XS", "S", "M", "L"],
+      "size": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
       "material": "Cotton",
       "color": "Light brown/Red",
       "description": "A cozy navy and white striped sweater for women.",
@@ -132,7 +152,12 @@
         "https://thehouseofrare.com/cdn/shop/files/DRIVER-BROWN0215_900x.jpg?v=1690451309"
       ],
       "brand": "Dockers",
-      "size": ["30Wx32L", "32Wx32L", "34Wx32L", "36Wx32L"],
+      "size": [
+        "30Wx32L",
+        "32Wx32L",
+        "34Wx32L",
+        "36Wx32L"
+      ],
       "material": "Cotton",
       "color": "Khaki",
       "description": "Classic khaki chino pants for men.",
@@ -162,7 +187,12 @@
         "https://www.rareism.com/cdn/shop/products/IMG_0008_b1eac7e8-fa71-4c28-a43e-ec1cd698cacc_900x.jpg?v=1663574848"
       ],
       "brand": "Levi's",
-      "size": ["XS", "S", "M", "L"],
+      "size": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
       "material": "Denim",
       "color": "Blue",
       "description": "A classic blue denim jacket for women.",
@@ -192,7 +222,12 @@
         "https://thehouseofrare.com/cdn/shop/products/IMG_0239_0a22fe97-4652-4000-949d-ad91b07fc174_900x.jpg?v=1675853900"
       ],
       "brand": "GAP",
-      "size": ["30", "32", "34", "36"],
+      "size": [
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
       "material": "Cotton",
       "color": "Olive",
       "description": "Comfortable olive cargo shorts for men.",
@@ -222,7 +257,12 @@
         "https://www.rareism.com/cdn/shop/files/ALLEN-BLACK6797_900x.jpg?v=1695214360"
       ],
       "brand": "Zara",
-      "size": ["XS", "S", "M", "L"],
+      "size": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
       "material": "Cashmere",
       "color": "Black",
       "description": "A cozy gray cashmere turtleneck sweater for women.",
@@ -252,7 +292,12 @@
         "https://thehouseofrare.com/cdn/shop/products/IMG_0001_7_8cda1974-6487-4d1e-82a2-730e1009b35c_900x.jpg?v=1632894998"
       ],
       "brand": "Gap",
-      "size": ["S", "M", "L", "XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
       "material": "Cotton Blend",
       "color": "Mustard",
       "description": "A classic black hooded sweatshirt for men.",
@@ -282,7 +327,12 @@
         "https://www.rareism.com/cdn/shop/products/GOLIATH_GREY_27_900x.jpg?v=1660915944"
       ],
       "brand": "Guess",
-      "size": ["24Wx30L", "26Wx30L", "28Wx30L", "30Wx30L"],
+      "size": [
+        "24Wx30L",
+        "26Wx30L",
+        "28Wx30L",
+        "30Wx30L"
+      ],
       "material": "Denim",
       "color": "Light Grey",
       "description": "Stylish medium blue high-waisted jeans for women.",
@@ -312,7 +362,12 @@
         "https://thehouseofrare.com/cdn/shop/products/IMG_0014_aceae385-7936-46b3-a35c-8d9d8208777d_900x.jpg?v=1663780866"
       ],
       "brand": "Lacoste",
-      "size": ["S", "M", "L", "XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
       "material": "Cotton",
       "color": "Navy",
       "description": "A classic navy polo shirt for men.",
@@ -342,7 +397,12 @@
         "https://www.rareism.com/cdn/shop/files/FINN-PINK-SWEAT1954_900x.jpg?v=1693215214"
       ],
       "brand": "Adidas",
-      "size": ["XS", "S", "M", "L"],
+      "size": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
       "material": "Cotton Blend",
       "color": "Pink",
       "description": "A trendy pink cropped hoodie for women.",
@@ -372,7 +432,12 @@
         "https://thehouseofrare.com/cdn/shop/files/SAM-DUSKY-BLUE-00865_900x.jpg?v=1692012697"
       ],
       "brand": "Calvin Klein",
-      "size": ["30Wx32L", "32Wx32L", "34Wx32L", "36Wx32L"],
+      "size": [
+        "30Wx32L",
+        "32Wx32L",
+        "34Wx32L",
+        "36Wx32L"
+      ],
       "material": "Cotton",
       "color": "Light Blue",
       "description": "Elegant charcoal wool blend slim fit dress pants for men.",
@@ -402,7 +467,12 @@
         "https://www.rareism.com/cdn/shop/products/IMG_0144_ae815ff4-bc72-4cec-9da8-9cf390e0eb96_900x.jpg?v=1668060209"
       ],
       "brand": "Forever 21",
-      "size": ["XS", "S", "M", "L"],
+      "size": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
       "material": "Cotton",
       "color": "Red",
       "description": "A chic white off-shoulder top for women.",
@@ -432,7 +502,12 @@
         "https://thehouseofrare.com/cdn/shop/products/IMG_0313_ddf3aac1-c0b5-412e-a3f6-5eaeb0e232ae_900x.jpg?v=1693565847"
       ],
       "brand": "Old Navy",
-      "size": ["30", "32", "34", "36"],
+      "size": [
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
       "material": "Cotton",
       "color": "Gray",
       "description": "Comfortable gray casual shorts for men.",
@@ -462,7 +537,12 @@
         "https://www.rareism.com/cdn/shop/products/IMG_0073_51de673b-f637-4a6a-ad25-c859a323c0de_900x.jpg?v=1664540527"
       ],
       "brand": "H&M",
-      "size": ["XS", "S", "M", "L"],
+      "size": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
       "material": "Polyester",
       "color": "Lavendar Floral",
       "description": "A stylish red floral wrap dress for women.",
@@ -492,7 +572,12 @@
         "https://thehouseofrare.com/cdn/shop/files/EASE-BLACK1515_900x.jpg?v=1692699317"
       ],
       "brand": "Tommy Bahama",
-      "size": ["S", "M", "L", "XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
       "material": "Cotton",
       "color": "Blue Floral",
       "description": "A stylish blue floral Hawaiian shirt for men.",
@@ -522,7 +607,12 @@
         "https://www.rareism.com/cdn/shop/files/IMG_0026_4d3ba8c7-cc54-44ad-9591-55cbf600df74_900x.jpg?v=1686907786"
       ],
       "brand": "Express",
-      "size": ["XS", "S", "M", "L"],
+      "size": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
       "material": "Cotton",
       "color": "Blue",
       "description": "A chic black peplum top for women.",
@@ -552,7 +642,12 @@
         "https://thehouseofrare.com/cdn/shop/files/BASTIAN-BEIGE3009_900x.jpg?v=1694084725"
       ],
       "brand": "Adidas",
-      "size": ["30Wx32L", "32Wx32L", "34Wx32L", "36Wx32L"],
+      "size": [
+        "30Wx32L",
+        "32Wx32L",
+        "34Wx32L",
+        "36Wx32L"
+      ],
       "material": "Cotton Blend",
       "color": "Beige",
       "description": "Comfortable Beige jogger pants for men.",
@@ -582,7 +677,12 @@
         "https://www.rareism.com/cdn/shop/files/AINARA-PURPLE6516_900x.jpg?v=1694173847"
       ],
       "brand": "Forever 21",
-      "size": ["XS", "S", "M", "L"],
+      "size": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
       "material": "Cotton",
       "color": "Maroon",
       "description": "A trendy maroon crop top for women.",
@@ -612,7 +712,12 @@
         "https://thehouseofrare.com/cdn/shop/files/IMG_0041_ffcea146-5f7b-4149-af97-b5d762ad466a_900x.jpg?v=1689145914"
       ],
       "brand": "GAP",
-      "size": ["30Wx32L", "32Wx32L", "34Wx32L", "36Wx32L"],
+      "size": [
+        "30Wx32L",
+        "32Wx32L",
+        "34Wx32L",
+        "36Wx32L"
+      ],
       "material": "Olive",
       "color": "Black",
       "description": "Stylish olive cargo pants for men.",
@@ -642,7 +747,12 @@
         "https://www.rareism.com/cdn/shop/files/SPORN-ORANGE-CC2498_900x.jpg?v=1689340246"
       ],
       "brand": "Zara",
-      "size": ["XS", "S", "M", "L"],
+      "size": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
       "material": "Polyester",
       "color": "White& Yellow",
       "description": "A chic white ruffled blouse for women.",
@@ -672,7 +782,12 @@
         "https://thehouseofrare.com/cdn/shop/files/LYTON-DARK-GREN4581_900x.jpg?v=1694066215"
       ],
       "brand": "Old Navy",
-      "size": ["30", "32", "34", "36"],
+      "size": [
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
       "material": "Cotton",
       "color": "Green",
       "description": "Comfortable khaki shorts for men.",
@@ -702,7 +817,12 @@
         "https://www.rareism.com/cdn/shop/products/BUMBLEBLUETOP_27_900x.jpg?v=1645791691"
       ],
       "brand": "Forever 21",
-      "size": ["XS", "S", "M", "L"],
+      "size": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
       "material": "Polyester",
       "color": "Skyblue",
       "description": "A stylish black lace camisole for women.",
@@ -732,7 +852,12 @@
         "https://thehouseofrare.com/cdn/shop/files/IMG_0153_1d259444-f6b7-4dde-97dd-1ea8e13adcfd_900x.jpg?v=1685783693"
       ],
       "brand": "Gap",
-      "size": ["S", "M", "L", "XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
       "material": "Flannel",
       "color": "White/Orange",
       "description": "A classic red and black flannel shirt for men.",
@@ -751,7 +876,6 @@
       ]
     }
   ],
-
   "accessories": [
     {
       "id": 1,
@@ -1334,7 +1458,6 @@
       ]
     }
   ],
-
   "users": [
     {
       "id": 1,
@@ -1535,12 +1658,18 @@
       "token": "pp0000",
       "gender": "Male",
       "admin": false
+    },
+    {
+      "f_name": "Jack",
+      "l_name": "Sparrow",
+      "email": "rum@yourmum.com",
+      "password": "pirate",
+      "token": "k78287rrow",
+      "admin": false,
+      "id": 21
     }
   ],
-
   "carts": [],
-
   "orders": [],
-
   "notifications": []
 }
