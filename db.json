@@ -1,4 +1,5 @@
 {
+
   
     "products": [
       {
@@ -1029,6 +1030,7 @@
           "color": "Black",
           "description": "A sleek and stylish women's wallet.",
           "rating": 4,
+
           "reviews": [
             {
               "username": "WalletQueen",
@@ -1041,7 +1043,7 @@
               "comment": "Fits perfectly in my purse."
             }
           ]
-        },
+    },
         {
           "id": 39,
           "type": "accessories",
@@ -1209,18 +1211,6 @@
           "color": "Red",
           "description": "A chic and spacious leather tote bag for women.",
           "rating": 4,
-          "reviews": [
-            {
-              "username": "BagLover",
-              "rating": 5,
-              "comment": "Beautiful and roomy!"
-            },
-            {
-              "username": "Fashionista",
-              "rating": 4,
-              "comment": "Perfect for shopping trips."
-            }
-          ]
         },
         {
           "id": 45,
@@ -1252,10 +1242,7 @@
             }
           ]
         }
-    ],
-  
-  
-
+],
   "users": [
     {
       "id": 1,
@@ -1456,6 +1443,18 @@
       "token": "pp0000",
       "gender": "Male",
       "admin": false
+    },
+    {
+      "f_name": "Jack",
+      "l_name": "Sparrow",
+      "email": "rum@yourmum.com",
+      "password": "pirate",
+      "token": "k78287rrow",
+      "admin": false,
+      "id": 21
     }
-  ]
+  ],
+  "carts": [],
+  "orders": [],
+  "notifications": []
 }
