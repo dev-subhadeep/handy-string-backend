@@ -1211,6 +1211,18 @@
           "color": "Red",
           "description": "A chic and spacious leather tote bag for women.",
           "rating": 4,
+          "reviews": [
+            {
+              "username": "BagLover",
+              "rating": 5,
+              "comment": "Beautiful and roomy!"
+            },
+            {
+              "username": "Fashionista",
+              "rating": 4,
+              "comment": "Perfect for shopping trips."
+            }
+          ]
         },
         {
           "id": 45,
